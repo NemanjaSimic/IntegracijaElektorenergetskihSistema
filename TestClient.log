@@ -1,0 +1,29 @@
+12/21/2018 11:08:47 PM : Network Model Service Test Client is up and running...
+12/21/2018 11:08:47 PM : Result directory: ../Results
+12/21/2018 11:09:21 PM : Getting values method started.
+12/21/2018 11:09:21 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+12/21/2018 11:09:22 PM : Getting values method for entered id = 10001 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+12/21/2018 11:09:47 PM : Entering Model Code failed. System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt64(String value, NumberStyles options, NumberFormatInfo numfmt)
+   at System.Int64.Parse(String s)
+   at FTN.Services.NetworkModelService.TestClient.Program.InputModelCode() in C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\NMSTestClient\Program.cs:line 198
+12/21/2018 11:09:47 PM : GetExtentValues failed. Input string was not in a correct format.
+12/21/2018 11:09:58 PM : Entering entity id failed. Please use hex (0x) or decimal format.
+12/21/2018 11:09:58 PM : GetValues failed. Input string was not in a correct format.
+12/21/2018 11:11:12 PM : Network Model Service Test Client is up and running...
+12/21/2018 11:11:12 PM : Result directory: ../Results
+12/21/2018 11:11:15 PM : Apply update method started.
+12/21/2018 11:11:16 PM : Apply update method finished. 
+Update result: Succeeded
+Message: Applying delta to network model successfully finished.
+GlobalId pairs:
+Client globalId: 0x00000001ffffffff	 - Server globalId: 0x0000000100000001
+Client globalId: 0x00000002ffffffff	 - Server globalId: 0x0000000200000001
+Client globalId: 0x00000003ffffffff	 - Server globalId: 0x0000000300000001
+Client globalId: 0x00000004ffffffff	 - Server globalId: 0x0000000400000001
+Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
+Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
+Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
+

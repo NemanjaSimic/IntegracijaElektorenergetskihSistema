@@ -1,0 +1,33 @@
+12/21/2018 11:07:28 PM : Starting Network Model Serivice...
+12/21/2018 11:07:30 PM : The WCF service GenericDataAccess is ready.
+12/21/2018 11:07:30 PM : Endpoints:
+12/21/2018 11:07:30 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+12/21/2018 11:07:30 PM : Connection string: ../NetworkModelData.data
+12/21/2018 11:07:30 PM : Trace level: Info
+12/21/2018 11:07:30 PM : The Network Model Service is started.
+12/21/2018 11:07:30 PM : Press <Enter> to stop the service.
+12/21/2018 11:08:38 PM : Starting Network Model Serivice...
+12/21/2018 11:08:40 PM : The WCF service GenericDataAccess is ready.
+12/21/2018 11:08:40 PM : Endpoints:
+12/21/2018 11:08:40 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+12/21/2018 11:08:40 PM : Connection string: ../NetworkModelData.data
+12/21/2018 11:08:40 PM : Trace level: Info
+12/21/2018 11:08:40 PM : The Network Model Service is started.
+12/21/2018 11:08:40 PM : Press <Enter> to stop the service.
+12/21/2018 11:11:01 PM : Starting Network Model Serivice...
+12/21/2018 11:11:03 PM : The WCF service GenericDataAccess is ready.
+12/21/2018 11:11:03 PM : Endpoints:
+12/21/2018 11:11:03 PM : net.tcp://localhost:10000/NetworkModelService/GDA/
+12/21/2018 11:11:03 PM : Connection string: ../NetworkModelData.data
+12/21/2018 11:11:03 PM : Trace level: Info
+12/21/2018 11:11:03 PM : The Network Model Service is started.
+12/21/2018 11:11:03 PM : Press <Enter> to stop the service.
+12/21/2018 11:11:16 PM : Applying  delta to network model.
+12/21/2018 11:11:16 PM : Inserting entity with GID (0000000500000001).
+12/21/2018 11:11:16 PM : Inserting entity with GID (0000000700000001).
+12/21/2018 11:11:16 PM : Inserting entity with GID (0000000400000001).
+12/21/2018 11:11:16 PM : Inserting entity with GID (0000000300000001).
+12/21/2018 11:11:16 PM : Inserting entity with GID (0000000200000001).
+12/21/2018 11:11:16 PM : Inserting entity with GID (0000000100000001).
+12/21/2018 11:11:16 PM : Inserting entity with GID (0000000600000001).
+12/21/2018 11:11:16 PM : Applying delta to network model successfully finished.
