@@ -1,0 +1,16 @@
+﻿<delta id="0">
+  <operations>
+    <operation type="insert">
+      <ResourceDescriptions count="1">
+        <ResourceDescription>
+          <id gid="0x00000004ffffffff" type="PHASEIMPENDANCEDATA" />
+          <Properties>
+            <Property id="IDOBJ_MRID" value="PID_01" />
+            <Property id="IDOBJ_NAME" value="PhaseImpedanceData" />
+            <Property id="IDOBJ_ALIASNAME" value="PID" />
+          </Properties>
+        </ResourceDescription>
+      </ResourceDescriptions>
+    </operation>
+  </operations>
+</delta>

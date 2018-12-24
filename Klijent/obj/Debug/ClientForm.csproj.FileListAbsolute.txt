@@ -1,0 +1,16 @@
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\Debug\Klijent.Form1.resources
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\Debug\Klijent.Properties.Resources.resources
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\Debug\ClientForm.csproj.GenerateResource.Cache
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\Debug\Klijent.exe
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\Debug\Klijent.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\Klijent.exe.config
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\Klijent.exe
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\Klijent.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\FTN.Common.dll
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\System.Net.Http.dll
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\FTN.Common.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\Debug\System.Net.Http.xml

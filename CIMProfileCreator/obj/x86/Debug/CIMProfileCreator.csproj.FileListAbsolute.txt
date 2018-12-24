@@ -33,3 +33,14 @@ D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FT
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.GenerateResource.Cache
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\Predefined\PredefinedClasses.xml
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\Predefined\PredefinedEnumerations.xml
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\Predefined\PredefinedPackages.xml
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.CIMProfileCreatorForm.resources
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.Properties.Resources.resources
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.GenerateResource.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMProfileCreator\obj\x86\Debug\CIMProfileCreator.csproj.CoreCompileInputs.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.exe
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMProfileCreator\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMProfileCreator.pdb

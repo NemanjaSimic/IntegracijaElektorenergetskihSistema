@@ -17,3 +17,8 @@ D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.dll
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.Common.pdb
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.dll
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\Common\obj\x86\Debug\FTN.Common.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\FTN.Common.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\FTN.Common.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Common\obj\x86\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Common\obj\x86\Debug\FTN.Common.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Common\obj\x86\Debug\FTN.Common.pdb

@@ -18,3 +18,10 @@ D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\bin\FTN.ESI.SIMES.CIM.CIMAdapter.p
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\CIMAdapter.csprojResolveAssemblyReference.cache
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\FTN.ESI.SIMES.CIM.CIMAdapter.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMAdapter\obj\x86\Debug\CIMAdapter.csprojAssemblyReference.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMAdapter\obj\x86\Debug\CIMAdapter.csproj.CopyComplete
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMAdapter\obj\x86\Debug\FTN.ESI.SIMES.CIM.CIMAdapter.pdb

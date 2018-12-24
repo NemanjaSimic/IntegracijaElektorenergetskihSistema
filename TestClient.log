@@ -27,3 +27,32 @@ Client globalId: 0x00000005ffffffff	 - Server globalId: 0x0000000500000001
 Client globalId: 0x00000006ffffffff	 - Server globalId: 0x0000000600000001
 Client globalId: 0x00000007ffffffff	 - Server globalId: 0x0000000700000001
 
+12/23/2018 2:32:14 PM : Network Model Service Test Client is up and running...
+12/23/2018 2:32:14 PM : Result directory: ../Results
+12/23/2018 2:32:19 PM : Getting values method started.
+12/23/2018 2:32:20 PM : Getting values method for entered id = 4294967297 failed.
+	Getting values for resource with ID = 0x0000000100000001 failed. Failed to get values for entity with GID = 0x0000000100000001. Object reference not set to an instance of an object.
+12/23/2018 2:33:01 PM : Getting values method started.
+12/23/2018 2:33:01 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+12/23/2018 2:33:01 PM : Getting values method for entered id = 65537 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+12/24/2018 5:16:24 PM : Network Model Service Test Client is up and running...
+12/24/2018 5:16:24 PM : Result directory: ../Results
+12/24/2018 5:16:54 PM : Getting values method started.
+12/24/2018 5:16:54 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+12/24/2018 5:16:54 PM : Getting values method for entered id = 400000002 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+12/24/2018 5:18:04 PM : Getting values method started.
+12/24/2018 5:18:04 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+12/24/2018 5:18:04 PM : Getting values method for entered id = 1441151880758820864 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+12/24/2018 5:18:10 PM : Getting extent values method started.
+12/24/2018 5:18:11 PM : Getting extent values method successfully finished.
+12/24/2018 5:18:24 PM : Entering entity id failed. Please use hex (0x) or decimal format.
+12/24/2018 5:18:24 PM : GetValues failed. Input string was not in a correct format.
+12/24/2018 5:18:42 PM : Getting values method started.
+12/24/2018 5:18:42 PM : Failed to get model type code for DMS type: 0. Invalid DMS type
+12/24/2018 5:18:42 PM : Getting values method for entered id = 4 failed.
+	Failed to get model type code for DMS type: 0. Invalid DMS type
+12/24/2018 5:19:34 PM : Getting values method started.
+12/24/2018 5:19:34 PM : Getting values method successfully finished.

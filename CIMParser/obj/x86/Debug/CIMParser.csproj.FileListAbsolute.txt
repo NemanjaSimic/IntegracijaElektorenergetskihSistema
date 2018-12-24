@@ -17,3 +17,9 @@ D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.dll
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\bin\CIMParser.pdb
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.dll
 D:\Simes\Projekat\ModelLabsProjekat\ModelLabs\CIMParser\obj\x86\Debug\CIMParser.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\CIMParser.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\bin\CIMParser.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMParser\obj\x86\Debug\CIMParser.csprojAssemblyReference.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMParser\obj\x86\Debug\CIMParser.csproj.CoreCompileInputs.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMParser\obj\x86\Debug\CIMParser.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\CIMParser\obj\x86\Debug\CIMParser.pdb

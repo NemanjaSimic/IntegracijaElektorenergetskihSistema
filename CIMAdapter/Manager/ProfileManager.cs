@@ -5,7 +5,8 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter.Manager
 {
 	public enum SupportedProfiles : byte
 	{
-		PowerTransformer = 0,
+		Projekat = 0,
+		PowerTransformer,
 		VoltageRegulator,
 		SwitchingEquipment,
 		OverheadLines,

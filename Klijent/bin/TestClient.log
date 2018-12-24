@@ -1,0 +1,2707 @@
+10/13/2018 9:55:44 PM : Getting extent values method started.
+10/13/2018 9:55:51 PM : Getting extent values method successfully finished.
+10/13/2018 9:56:19 PM : Getting extent values method started.
+10/13/2018 9:56:20 PM : Getting extent values method successfully finished.
+10/13/2018 9:56:33 PM : Getting values method started.
+10/13/2018 9:56:33 PM : Getting values method successfully finished.
+10/13/2018 9:56:44 PM : Getting extent values method started.
+10/13/2018 9:57:44 PM : Getting extent values method failed for IRREGULARTPOINT.
+	IteratorNext failed. Iterator ID = 3. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Failed to set value for property (IRREGULARTPOINT_TIME) because specified value (50) is not compatible with property type (Float). 
+10/13/2018 9:57:51 PM : Getting extent values method started.
+10/13/2018 9:57:51 PM : Getting extent values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:51 PM : Getting values method successfully finished.
+10/13/2018 9:57:51 PM : Getting values method started.
+10/13/2018 9:57:52 PM : Getting values method successfully finished.
+10/13/2018 9:57:52 PM : Getting values method started.
+10/13/2018 9:57:52 PM : Getting values method successfully finished.
+10/13/2018 9:57:52 PM : Getting values method started.
+10/13/2018 9:57:52 PM : Getting values method successfully finished.
+10/13/2018 9:57:52 PM : Getting values method started.
+10/13/2018 9:57:52 PM : Getting values method successfully finished.
+10/13/2018 9:57:52 PM : Getting values method started.
+10/13/2018 9:57:52 PM : Getting values method successfully finished.
+10/13/2018 9:57:52 PM : Getting values method started.
+10/13/2018 9:57:52 PM : Getting values method successfully finished.
+10/13/2018 9:57:52 PM : Getting values method started.
+10/13/2018 9:57:52 PM : Getting values method successfully finished.
+10/13/2018 9:58:00 PM : Getting extent values method started.
+10/13/2018 9:58:01 PM : Getting extent values method successfully finished.
+10/13/2018 9:58:03 PM : Getting values method started.
+10/13/2018 9:58:03 PM : Getting values method successfully finished.
+10/13/2018 9:58:06 PM : Getting values method started.
+10/13/2018 9:58:06 PM : Getting values method successfully finished.
+10/13/2018 9:58:14 PM : Getting values method started.
+10/13/2018 9:58:14 PM : Getting values method successfully finished.
+10/13/2018 9:58:14 PM : Getting related values method started.
+10/13/2018 9:58:14 PM : Getting related values method successfully finished.
+10/13/2018 9:58:14 PM : Getting values method started.
+10/13/2018 9:58:14 PM : Getting values method successfully finished.
+10/14/2018 11:00:13 AM : Getting extent values method started.
+10/14/2018 11:00:17 AM : Getting extent values method successfully finished.
+10/14/2018 11:00:27 AM : Getting values method started.
+10/14/2018 11:00:27 AM : Getting values method successfully finished.
+10/14/2018 11:00:34 AM : Getting values method started.
+10/14/2018 11:00:34 AM : Getting values method successfully finished.
+10/14/2018 11:00:43 AM : Getting values method started.
+10/14/2018 11:00:43 AM : Getting values method successfully finished.
+10/14/2018 11:00:51 AM : Getting values method started.
+10/14/2018 11:00:51 AM : Getting values method successfully finished.
+10/14/2018 11:00:51 AM : Getting values method started.
+10/14/2018 11:00:51 AM : Getting values method successfully finished.
+10/14/2018 11:00:58 AM : Getting values method started.
+10/14/2018 11:00:58 AM : Getting values method successfully finished.
+10/14/2018 11:01:03 AM : Getting extent values method started.
+10/14/2018 11:02:34 AM : Getting extent values method failed for REGULARTPOINT.
+	IteratorNext failed. Iterator ID = 2. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (REGULARTPOINT_INTERSCH) because specified value (1) is not compatible with property type (Reference). 
+10/14/2018 11:02:39 AM : Getting extent values method started.
+10/14/2018 11:03:00 AM : Getting extent values method failed for IRREGULARTPOINT.
+	IteratorNext failed. Iterator ID = 3. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Failed to set value for property (IRREGULARTPOINT_TIME) because specified value (50) is not compatible with property type (Float). 
+10/14/2018 11:03:07 AM : Getting extent values method started.
+10/14/2018 11:03:18 AM : Getting extent values method failed for REGULARISCHEDULE.
+	IteratorNext failed. Iterator ID = 4. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000400000001. Failed to set value for property (REGULARISCHEDULE_TIMESTEP) because specified value (15) is not compatible with property type (Float). 
+10/14/2018 11:03:24 AM : Getting extent values method started.
+10/14/2018 11:03:25 AM : Getting extent values method successfully finished.
+10/14/2018 11:03:30 AM : Getting values method started.
+10/14/2018 11:03:30 AM : Getting values method successfully finished.
+10/14/2018 11:03:36 AM : Getting values method started.
+10/14/2018 11:03:36 AM : Getting values method successfully finished.
+10/14/2018 11:03:42 AM : Getting extent values method started.
+10/14/2018 11:03:43 AM : Getting extent values method successfully finished.
+10/14/2018 11:03:47 AM : Getting values method started.
+10/14/2018 11:03:47 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting extent values method started.
+10/14/2018 11:04:00 AM : Getting extent values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:00 AM : Getting values method started.
+10/14/2018 11:04:00 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting extent values method started.
+10/14/2018 11:04:10 AM : Getting extent values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:10 AM : Getting values method started.
+10/14/2018 11:04:10 AM : Getting values method successfully finished.
+10/14/2018 11:04:21 AM : Getting extent values method started.
+10/14/2018 11:05:40 AM : Getting extent values method failed for REGULARTPOINT.
+	IteratorNext failed. Iterator ID = 9. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (REGULARTPOINT_INTERSCH) because specified value (1) is not compatible with property type (Reference). 
+10/14/2018 11:05:48 AM : Getting extent values method started.
+10/14/2018 11:05:48 AM : Getting extent values method successfully finished.
+10/14/2018 11:05:52 AM : Getting values method started.
+10/14/2018 11:05:52 AM : Getting values method successfully finished.
+10/14/2018 11:05:56 AM : Getting values method started.
+10/14/2018 11:05:56 AM : Getting values method successfully finished.
+10/14/2018 11:06:02 AM : Getting values method started.
+10/14/2018 11:06:02 AM : Getting values method successfully finished.
+10/14/2018 11:06:02 AM : Getting related values method started.
+10/14/2018 11:06:02 AM : Getting related values method successfully finished.
+10/14/2018 11:06:02 AM : Getting values method started.
+10/14/2018 11:06:02 AM : Getting values method successfully finished.
+10/14/2018 11:06:08 AM : Getting values method started.
+10/14/2018 11:06:08 AM : Getting values method successfully finished.
+10/14/2018 11:06:12 AM : Getting values method started.
+10/14/2018 11:06:12 AM : Getting values method successfully finished.
+10/14/2018 11:06:12 AM : Getting related values method started.
+10/14/2018 11:06:12 AM : Getting related values method successfully finished.
+10/14/2018 11:06:17 AM : Getting values method started.
+10/14/2018 11:06:17 AM : Getting values method successfully finished.
+10/14/2018 11:06:21 AM : Getting values method started.
+10/14/2018 11:06:21 AM : Getting values method successfully finished.
+10/14/2018 11:06:21 AM : Getting related values method started.
+10/14/2018 11:06:21 AM : Getting related values method successfully finished.
+10/14/2018 11:06:21 AM : Getting values method started.
+10/14/2018 11:06:21 AM : Getting values method successfully finished.
+10/14/2018 11:06:27 AM : Getting extent values method started.
+10/14/2018 11:06:27 AM : Getting extent values method successfully finished.
+10/14/2018 11:06:29 AM : Getting values method started.
+10/14/2018 11:06:29 AM : Getting values method successfully finished.
+10/14/2018 11:06:33 AM : Getting values method started.
+10/14/2018 11:06:33 AM : Getting values method successfully finished.
+10/14/2018 11:06:36 AM : Getting values method started.
+10/14/2018 11:06:36 AM : Getting values method successfully finished.
+10/14/2018 11:06:36 AM : Getting related values method started.
+10/14/2018 11:06:36 AM : Getting related values method successfully finished.
+10/14/2018 11:06:39 AM : Getting values method started.
+10/14/2018 11:06:39 AM : Getting values method successfully finished.
+10/14/2018 11:06:42 AM : Getting values method started.
+10/14/2018 11:06:42 AM : Getting values method successfully finished.
+10/14/2018 11:06:42 AM : Getting related values method started.
+10/14/2018 11:06:42 AM : Getting related values method successfully finished.
+10/14/2018 11:06:45 AM : Getting extent values method started.
+10/14/2018 11:06:45 AM : Getting extent values method successfully finished.
+10/14/2018 11:06:49 AM : Getting values method started.
+10/14/2018 11:06:49 AM : Getting values method successfully finished.
+10/14/2018 11:06:52 AM : Getting values method started.
+10/14/2018 11:06:52 AM : Getting values method successfully finished.
+10/14/2018 11:06:52 AM : Failed to get model type code for DMS type: 0. Invalid DMS type. ID = 0x0000000000000000
+10/14/2018 11:06:56 AM : Getting values method started.
+10/14/2018 11:06:56 AM : Getting values method successfully finished.
+10/14/2018 11:06:56 AM : Getting related values method started.
+10/14/2018 11:06:56 AM : Getting related values method successfully finished.
+10/15/2018 3:31:32 PM : Getting extent values method started.
+10/15/2018 3:36:34 PM : Getting extent values method failed for REGULARTPOINT.
+	IteratorNext failed. Iterator ID = 1. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000200000001. Failed to set value for property (REGULARTPOINT_INTERSCH) because specified value (1) is not compatible with property type (Reference). 
+10/15/2018 4:02:13 PM : Getting extent values method started.
+10/15/2018 4:04:42 PM : Getting extent values method failed for IRREGULARTPOINT.
+	IteratorNext failed. Iterator ID = 2. Resources to fetch count = 2. Failed to get next set of ResourceDescription iterators. Failed to get values for entity with GID = 0x0000000300000001. Failed to set value for property (IRREGULARTPOINT_TIME) because specified value (50) is not compatible with property type (Float). 
+10/15/2018 4:04:52 PM : Getting extent values method started.
+10/15/2018 4:05:01 PM : Getting extent values method failed for IRREGULARTPOINT.
+	The process cannot access the file 'C:\Users\Korisnik\Desktop\blok tri\Projekat\Projekat\ModelLabsProjekat\Klijent\bin\Results\GetExtentValues_Results.xml' because it is being used by another process.
+10/15/2018 4:05:12 PM : Getting extent values method started.
+10/15/2018 4:05:14 PM : Getting extent values method failed for REGULARISCHEDULE.
+	The process cannot access the file 'C:\Users\Korisnik\Desktop\blok tri\Projekat\Projekat\ModelLabsProjekat\Klijent\bin\Results\GetExtentValues_Results.xml' because it is being used by another process.
+10/15/2018 4:05:22 PM : Getting extent values method started.
+10/15/2018 4:05:25 PM : Getting extent values method failed for OUTAGESCHEDULE.
+	The process cannot access the file 'C:\Users\Korisnik\Desktop\blok tri\Projekat\Projekat\ModelLabsProjekat\Klijent\bin\Results\GetExtentValues_Results.xml' because it is being used by another process.
+10/15/2018 4:05:30 PM : Getting extent values method started.
+10/15/2018 4:05:32 PM : Getting extent values method failed for OUTAGESCHEDULE.
+	The process cannot access the file 'C:\Users\Korisnik\Desktop\blok tri\Projekat\Projekat\ModelLabsProjekat\Klijent\bin\Results\GetExtentValues_Results.xml' because it is being used by another process.
+10/15/2018 4:05:37 PM : Getting extent values method started.
+10/15/2018 4:05:42 PM : Getting extent values method failed for DISCONNECTOR.
+	The process cannot access the file 'C:\Users\Korisnik\Desktop\blok tri\Projekat\Projekat\ModelLabsProjekat\Klijent\bin\Results\GetExtentValues_Results.xml' because it is being used by another process.
+10/15/2018 4:08:33 PM : Getting extent values method started.
+10/15/2018 4:08:36 PM : Getting extent values method successfully finished.
+10/15/2018 4:08:42 PM : Getting values method started.
+10/15/2018 4:08:42 PM : Getting values method successfully finished.
+10/15/2018 4:08:55 PM : Getting extent values method started.
+10/15/2018 4:08:55 PM : Getting extent values method successfully finished.
+10/15/2018 4:08:59 PM : Getting values method started.
+10/15/2018 4:08:59 PM : Getting values method successfully finished.
+10/15/2018 4:09:09 PM : Getting extent values method started.
+10/16/2018 11:45:17 AM : Getting extent values method started.
+10/16/2018 11:45:19 AM : Getting extent values method successfully finished.
+10/16/2018 11:45:33 AM : Getting values method started.
+10/16/2018 11:45:34 AM : Getting values method successfully finished.
+10/16/2018 11:45:43 AM : Getting values method started.
+10/16/2018 11:45:43 AM : Getting values method successfully finished.
+10/16/2018 11:45:47 AM : Getting values method started.
+10/16/2018 11:45:47 AM : Getting values method successfully finished.
+10/16/2018 11:45:51 AM : Getting extent values method started.
+10/16/2018 12:21:20 PM : Getting extent values method started.
+10/16/2018 12:21:22 PM : Getting extent values method successfully finished.
+10/16/2018 12:22:07 PM : Getting extent values method started.
+10/16/2018 12:22:09 PM : Getting extent values method successfully finished.
+10/16/2018 12:22:13 PM : Getting values method started.
+10/16/2018 12:22:13 PM : Getting values method successfully finished.
+10/16/2018 12:22:34 PM : Getting values method started.
+10/16/2018 12:22:34 PM : Getting values method successfully finished.
+10/16/2018 12:22:42 PM : Getting values method started.
+10/16/2018 12:22:42 PM : Getting values method successfully finished.
+10/16/2018 12:22:49 PM : Getting extent values method started.
+10/16/2018 12:22:49 PM : Getting extent values method successfully finished.
+10/16/2018 12:22:56 PM : Getting values method started.
+10/16/2018 12:22:56 PM : Getting values method successfully finished.
+10/16/2018 12:23:03 PM : Getting values method started.
+10/16/2018 12:23:03 PM : Getting values method successfully finished.
+10/16/2018 12:23:19 PM : Getting extent values method started.
+10/16/2018 12:23:19 PM : Getting extent values method successfully finished.
+10/16/2018 12:23:24 PM : Getting values method started.
+10/16/2018 12:23:24 PM : Getting values method successfully finished.
+10/16/2018 12:23:27 PM : Getting extent values method started.
+10/16/2018 12:23:27 PM : Getting extent values method successfully finished.
+10/16/2018 12:23:31 PM : Getting values method started.
+10/16/2018 12:23:31 PM : Getting values method successfully finished.
+10/16/2018 12:23:42 PM : Getting values method started.
+10/16/2018 12:23:42 PM : Getting values method successfully finished.
+10/16/2018 12:23:48 PM : Getting values method started.
+10/16/2018 12:23:48 PM : Getting values method successfully finished.
+10/16/2018 12:23:55 PM : Getting extent values method started.
+10/16/2018 12:23:55 PM : Getting extent values method successfully finished.
+10/16/2018 12:24:03 PM : Getting values method started.
+10/16/2018 12:24:03 PM : Getting values method successfully finished.
+10/16/2018 12:24:07 PM : Getting extent values method started.
+10/16/2018 12:24:07 PM : Getting extent values method successfully finished.
+10/16/2018 12:24:10 PM : Getting values method started.
+10/16/2018 12:24:10 PM : Getting values method successfully finished.
+10/16/2018 12:24:14 PM : Getting values method started.
+10/16/2018 12:24:14 PM : Getting values method successfully finished.
+10/16/2018 12:24:19 PM : Getting extent values method started.
+10/16/2018 12:24:19 PM : Getting extent values method successfully finished.
+10/16/2018 12:24:23 PM : Getting values method started.
+10/16/2018 12:24:23 PM : Getting values method successfully finished.
+10/16/2018 12:24:27 PM : Getting values method started.
+10/16/2018 12:24:27 PM : Getting values method successfully finished.
+10/16/2018 12:24:31 PM : Getting values method started.
+10/16/2018 12:24:31 PM : Getting values method successfully finished.
+10/16/2018 12:24:34 PM : Getting extent values method started.
+10/16/2018 12:24:34 PM : Getting extent values method successfully finished.
+10/16/2018 12:24:38 PM : Getting values method started.
+10/16/2018 12:24:38 PM : Getting values method successfully finished.
+10/16/2018 12:24:43 PM : Getting extent values method started.
+10/16/2018 12:24:43 PM : Getting extent values method successfully finished.
+10/16/2018 12:24:46 PM : Getting values method started.
+10/16/2018 12:24:46 PM : Getting values method successfully finished.
+10/16/2018 12:24:52 PM : Getting extent values method started.
+10/16/2018 12:24:52 PM : Getting extent values method successfully finished.
+10/16/2018 12:24:52 PM : Getting values method started.
+10/16/2018 12:24:52 PM : Getting values method successfully finished.
+10/16/2018 12:24:52 PM : Getting values method started.
+10/16/2018 12:24:52 PM : Getting values method successfully finished.
+10/16/2018 12:24:52 PM : Getting values method started.
+10/16/2018 12:24:52 PM : Getting values method successfully finished.
+10/16/2018 12:24:58 PM : Getting extent values method started.
+10/16/2018 12:24:58 PM : Getting extent values method successfully finished.
+10/16/2018 12:24:58 PM : Getting values method started.
+10/16/2018 12:24:58 PM : Getting values method successfully finished.
+10/16/2018 12:24:58 PM : Getting values method started.
+10/16/2018 12:24:58 PM : Getting values method successfully finished.
+10/16/2018 12:24:58 PM : Getting values method started.
+10/16/2018 12:24:58 PM : Getting values method successfully finished.
+10/16/2018 12:25:01 PM : Getting extent values method started.
+10/16/2018 12:25:01 PM : Getting extent values method successfully finished.
+10/16/2018 12:25:01 PM : Getting values method started.
+10/16/2018 12:25:01 PM : Getting values method successfully finished.
+10/16/2018 12:25:01 PM : Getting values method started.
+10/16/2018 12:25:01 PM : Getting values method successfully finished.
+10/16/2018 12:25:01 PM : Getting values method started.
+10/16/2018 12:25:01 PM : Getting values method successfully finished.
+10/16/2018 12:25:04 PM : Getting extent values method started.
+10/16/2018 12:25:04 PM : Getting extent values method successfully finished.
+10/16/2018 12:25:06 PM : Getting values method started.
+10/16/2018 12:25:06 PM : Getting values method successfully finished.
+10/16/2018 12:25:08 PM : Getting values method started.
+10/16/2018 12:25:08 PM : Getting values method successfully finished.
+10/16/2018 12:25:54 PM : Getting extent values method started.
+10/16/2018 12:25:54 PM : Getting extent values method successfully finished.
+10/16/2018 12:25:56 PM : Getting values method started.
+10/16/2018 12:25:56 PM : Getting values method successfully finished.
+10/16/2018 12:25:58 PM : Getting values method started.
+10/16/2018 12:25:58 PM : Getting values method successfully finished.
+10/16/2018 12:26:01 PM : Getting values method started.
+10/16/2018 12:26:01 PM : Getting values method successfully finished.
+10/16/2018 12:26:01 PM : Getting related values method started.
+10/16/2018 12:26:01 PM : Getting related values method successfully finished.
+10/16/2018 12:26:01 PM : Getting values method started.
+10/16/2018 12:26:01 PM : Getting values method successfully finished.
+10/16/2018 12:26:19 PM : Getting values method started.
+10/16/2018 12:26:19 PM : Getting values method successfully finished.
+10/16/2018 12:26:19 PM : Getting related values method started.
+10/16/2018 12:26:19 PM : Getting related values method successfully finished.
+10/16/2018 12:26:19 PM : Getting values method started.
+10/16/2018 12:26:20 PM : Getting values method successfully finished.
+10/16/2018 12:26:24 PM : Getting extent values method started.
+10/16/2018 12:26:24 PM : Getting extent values method successfully finished.
+10/16/2018 12:26:26 PM : Getting values method started.
+10/16/2018 12:26:26 PM : Getting values method successfully finished.
+10/16/2018 12:26:30 PM : Getting values method started.
+10/16/2018 12:26:30 PM : Getting values method successfully finished.
+10/16/2018 12:26:30 PM : Failed to get model type code for DMS type: 0. Invalid DMS type. ID = 0x0000000000000000
+10/16/2018 12:26:32 PM : Getting values method started.
+10/16/2018 12:26:32 PM : Getting values method successfully finished.
+10/16/2018 12:26:32 PM : Getting related values method started.
+10/16/2018 12:26:32 PM : Getting related values method successfully finished.
+10/16/2018 12:28:39 PM : Getting values method started.
+10/16/2018 12:28:39 PM : Getting values method successfully finished.
+10/16/2018 12:28:39 PM : Failed to get model type code for DMS type: 0. Invalid DMS type. ID = 0x0000000000000000
+10/16/2018 12:28:42 PM : Getting values method started.
+10/16/2018 12:28:42 PM : Getting values method successfully finished.
+10/16/2018 12:28:55 PM : Getting values method started.
+10/16/2018 12:28:55 PM : Getting values method successfully finished.
+10/16/2018 12:28:58 PM : Getting values method started.
+10/16/2018 12:28:58 PM : Getting values method successfully finished.
+10/16/2018 12:28:58 PM : Failed to get model type code for DMS type: 0. Invalid DMS type. ID = 0x0000000000000000
+10/16/2018 12:29:06 PM : Getting extent values method started.
+10/16/2018 12:29:06 PM : Getting extent values method successfully finished.
+10/16/2018 12:29:11 PM : Getting values method started.
+10/16/2018 12:29:11 PM : Getting values method successfully finished.
+10/16/2018 12:29:19 PM : Getting extent values method started.
+10/16/2018 12:29:19 PM : Getting extent values method successfully finished.
+10/16/2018 12:29:22 PM : Getting values method started.
+10/16/2018 12:29:22 PM : Getting values method successfully finished.
+10/17/2018 12:35:59 PM : Getting extent values method started.
+10/17/2018 12:36:11 PM : Getting extent values method successfully finished.
+10/17/2018 12:36:46 PM : Getting values method started.
+10/17/2018 12:36:46 PM : Getting values method successfully finished.
+10/17/2018 12:37:05 PM : Getting extent values method started.
+10/17/2018 12:37:05 PM : Getting extent values method successfully finished.
+10/17/2018 12:37:05 PM : Getting values method started.
+10/17/2018 12:37:05 PM : Getting values method successfully finished.
+10/17/2018 12:37:05 PM : Getting values method started.
+10/17/2018 12:37:05 PM : Getting values method successfully finished.
+10/17/2018 12:37:05 PM : Getting values method started.
+10/17/2018 12:37:06 PM : Getting values method successfully finished.
+10/17/2018 12:37:56 PM : Getting extent values method started.
+10/17/2018 12:37:57 PM : Getting extent values method successfully finished.
+10/17/2018 12:37:59 PM : Getting values method started.
+10/17/2018 12:37:59 PM : Getting values method successfully finished.
+10/17/2018 12:38:01 PM : Getting values method started.
+10/17/2018 12:38:01 PM : Getting values method successfully finished.
+10/22/2018 12:08:24 PM : Getting extent values method started.
+10/22/2018 12:08:46 PM : Getting extent values method successfully finished.
+10/22/2018 12:08:46 PM : Getting values method started.
+10/22/2018 12:08:46 PM : Getting values method successfully finished.
+10/22/2018 12:08:47 PM : Getting values method started.
+10/22/2018 12:08:47 PM : Getting values method successfully finished.
+10/22/2018 12:08:47 PM : Getting values method started.
+10/22/2018 12:08:47 PM : Getting values method successfully finished.
+10/22/2018 12:08:47 PM : Getting extent values method started.
+10/22/2018 12:08:48 PM : Getting extent values method successfully finished.
+10/22/2018 12:08:48 PM : Getting values method started.
+10/22/2018 12:08:48 PM : Getting values method successfully finished.
+10/22/2018 12:08:48 PM : Getting values method started.
+10/22/2018 12:08:48 PM : Getting values method successfully finished.
+10/22/2018 12:08:48 PM : Getting values method started.
+10/22/2018 12:08:48 PM : Getting values method successfully finished.
+10/22/2018 12:11:47 PM : Getting extent values method started.
+10/22/2018 12:11:47 PM : Getting extent values method successfully finished.
+10/22/2018 12:11:51 PM : Getting values method started.
+10/22/2018 12:11:51 PM : Getting values method successfully finished.
+10/22/2018 12:11:57 PM : Getting extent values method started.
+10/22/2018 12:11:58 PM : Getting extent values method successfully finished.
+10/22/2018 12:12:01 PM : Getting values method started.
+10/22/2018 12:12:01 PM : Getting values method successfully finished.
+10/22/2018 12:12:21 PM : Getting extent values method started.
+10/22/2018 12:12:21 PM : Getting extent values method successfully finished.
+10/22/2018 12:12:25 PM : Getting values method started.
+10/22/2018 12:12:25 PM : Getting values method successfully finished.
+10/22/2018 12:53:48 PM : Getting extent values method started.
+10/22/2018 12:53:54 PM : Getting extent values method successfully finished.
+10/22/2018 12:54:21 PM : Getting extent values method started.
+10/22/2018 12:54:21 PM : Getting extent values method successfully finished.
+10/22/2018 12:55:48 PM : Getting extent values method started.
+10/22/2018 12:55:55 PM : Getting extent values method successfully finished.
+10/22/2018 12:59:09 PM : Getting extent values method started.
+10/22/2018 12:59:14 PM : Getting extent values method successfully finished.
+10/22/2018 1:06:36 PM : Getting extent values method started.
+10/22/2018 1:07:00 PM : Getting extent values method successfully finished.
+10/22/2018 1:07:04 PM : Getting extent values method started.
+10/22/2018 1:07:05 PM : Getting extent values method successfully finished.
+10/22/2018 1:07:13 PM : Getting extent values method started.
+10/22/2018 1:07:15 PM : Getting extent values method successfully finished.
+10/22/2018 1:07:27 PM : Getting extent values method started.
+10/22/2018 1:07:28 PM : Getting extent values method successfully finished.
+10/22/2018 1:28:21 PM : Getting extent values method started.
+10/22/2018 1:28:29 PM : Getting extent values method successfully finished.
+10/22/2018 1:28:38 PM : Getting extent values method started.
+10/22/2018 1:28:38 PM : Getting extent values method successfully finished.
+10/22/2018 1:28:45 PM : Getting extent values method started.
+10/22/2018 1:28:45 PM : Getting extent values method successfully finished.
+10/22/2018 1:29:47 PM : Getting extent values method started.
+10/22/2018 1:29:51 PM : Getting extent values method successfully finished.
+10/22/2018 1:34:19 PM : Getting extent values method started.
+10/22/2018 1:34:22 PM : Getting extent values method successfully finished.
+10/22/2018 1:34:31 PM : Getting extent values method started.
+10/22/2018 1:34:31 PM : Getting extent values method successfully finished.
+10/22/2018 1:38:16 PM : Getting extent values method started.
+10/22/2018 1:38:19 PM : Getting extent values method successfully finished.
+10/22/2018 1:39:02 PM : Getting extent values method started.
+10/22/2018 1:39:02 PM : Getting extent values method successfully finished.
+10/22/2018 1:42:18 PM : Getting extent values method started.
+10/22/2018 1:42:20 PM : Getting extent values method successfully finished.
+10/22/2018 1:49:44 PM : Getting extent values method started.
+10/22/2018 1:49:46 PM : Getting extent values method successfully finished.
+10/22/2018 1:50:35 PM : Getting extent values method started.
+10/22/2018 1:50:35 PM : Getting extent values method successfully finished.
+10/22/2018 1:52:01 PM : Getting extent values method started.
+10/22/2018 1:52:10 PM : Getting extent values method successfully finished.
+10/22/2018 1:52:21 PM : Getting extent values method started.
+10/22/2018 1:52:21 PM : Getting extent values method successfully finished.
+10/22/2018 2:12:24 PM : Getting extent values method started.
+10/22/2018 2:12:32 PM : Getting extent values method successfully finished.
+10/22/2018 2:18:23 PM : Getting extent values method started.
+10/22/2018 2:18:29 PM : Getting extent values method successfully finished.
+10/22/2018 2:22:41 PM : Getting extent values method started.
+10/22/2018 2:22:50 PM : Getting extent values method successfully finished.
+10/22/2018 2:35:05 PM : Getting extent values method started.
+10/22/2018 2:35:11 PM : Getting extent values method successfully finished.
+10/22/2018 2:35:23 PM : Getting extent values method started.
+10/22/2018 2:35:23 PM : Getting extent values method successfully finished.
+10/22/2018 2:35:23 PM : Getting values method started.
+10/22/2018 2:35:23 PM : Getting values method successfully finished.
+10/22/2018 2:35:23 PM : Getting values method started.
+10/22/2018 2:35:23 PM : Getting values method successfully finished.
+10/22/2018 2:35:23 PM : Getting values method started.
+10/22/2018 2:35:23 PM : Getting values method successfully finished.
+10/22/2018 2:35:39 PM : Getting extent values method started.
+10/22/2018 2:35:39 PM : Getting extent values method successfully finished.
+10/22/2018 2:35:39 PM : Getting values method started.
+10/22/2018 2:35:39 PM : Getting values method successfully finished.
+10/22/2018 2:35:40 PM : Getting values method started.
+10/22/2018 2:35:40 PM : Getting values method successfully finished.
+10/22/2018 2:35:40 PM : Getting values method started.
+10/22/2018 2:35:40 PM : Getting values method successfully finished.
+10/22/2018 2:35:47 PM : Getting extent values method started.
+10/22/2018 2:35:47 PM : Getting extent values method successfully finished.
+10/22/2018 2:35:47 PM : Getting values method started.
+10/22/2018 2:35:47 PM : Getting values method successfully finished.
+10/22/2018 2:35:47 PM : Getting values method started.
+10/22/2018 2:35:47 PM : Getting values method successfully finished.
+10/22/2018 2:35:47 PM : Getting values method started.
+10/22/2018 2:35:47 PM : Getting values method successfully finished.
+10/22/2018 2:37:21 PM : Getting extent values method started.
+10/22/2018 2:37:27 PM : Getting extent values method successfully finished.
+10/22/2018 2:37:31 PM : Getting extent values method started.
+10/22/2018 2:37:31 PM : Getting extent values method successfully finished.
+10/22/2018 2:43:15 PM : Getting extent values method started.
+10/22/2018 2:43:20 PM : Getting extent values method successfully finished.
+10/22/2018 2:43:28 PM : Getting extent values method started.
+10/22/2018 2:43:28 PM : Getting extent values method successfully finished.
+10/22/2018 2:43:59 PM : Getting values method started.
+10/22/2018 2:43:59 PM : Getting values method successfully finished.
+10/22/2018 2:44:00 PM : Getting values method started.
+10/22/2018 2:44:00 PM : Getting values method successfully finished.
+10/22/2018 2:44:00 PM : Getting values method started.
+10/22/2018 2:44:00 PM : Getting values method successfully finished.
+10/22/2018 2:44:31 PM : Getting extent values method started.
+10/22/2018 2:44:31 PM : Getting extent values method successfully finished.
+10/22/2018 2:44:31 PM : Getting values method started.
+10/22/2018 2:44:31 PM : Getting values method successfully finished.
+10/22/2018 2:47:35 PM : Getting extent values method started.
+10/22/2018 2:47:54 PM : Getting extent values method successfully finished.
+10/22/2018 2:47:57 PM : Getting extent values method started.
+10/22/2018 2:47:58 PM : Getting extent values method successfully finished.
+10/22/2018 2:47:58 PM : Getting values method started.
+10/22/2018 2:47:58 PM : Getting values method successfully finished.
+10/22/2018 2:47:58 PM : Getting values method started.
+10/22/2018 2:47:58 PM : Getting values method successfully finished.
+10/22/2018 2:47:58 PM : Getting values method started.
+10/22/2018 2:47:58 PM : Getting values method successfully finished.
+10/22/2018 2:51:56 PM : Getting extent values method started.
+10/22/2018 2:52:02 PM : Getting extent values method successfully finished.
+10/22/2018 2:52:16 PM : Getting extent values method started.
+10/22/2018 2:52:16 PM : Getting extent values method successfully finished.
+10/22/2018 2:52:16 PM : Getting values method started.
+10/22/2018 2:52:16 PM : Getting values method successfully finished.
+10/22/2018 2:52:16 PM : Getting values method started.
+10/22/2018 2:52:16 PM : Getting values method successfully finished.
+10/22/2018 2:52:16 PM : Getting values method started.
+10/22/2018 2:52:16 PM : Getting values method successfully finished.
+10/22/2018 2:52:43 PM : Getting extent values method started.
+10/22/2018 2:52:44 PM : Getting extent values method successfully finished.
+10/22/2018 2:52:45 PM : Getting extent values method started.
+10/22/2018 2:52:45 PM : Getting extent values method successfully finished.
+10/22/2018 2:52:50 PM : Getting extent values method started.
+10/22/2018 2:52:51 PM : Getting extent values method successfully finished.
+10/22/2018 2:52:51 PM : Getting values method started.
+10/22/2018 2:52:51 PM : Getting values method successfully finished.
+10/22/2018 2:52:51 PM : Getting values method started.
+10/22/2018 2:52:51 PM : Getting values method successfully finished.
+10/22/2018 2:52:51 PM : Getting values method started.
+10/22/2018 2:52:51 PM : Getting values method successfully finished.
+10/22/2018 2:53:03 PM : Getting extent values method started.
+10/22/2018 2:53:03 PM : Getting extent values method successfully finished.
+10/22/2018 2:53:03 PM : Getting values method started.
+10/22/2018 2:53:03 PM : Getting values method successfully finished.
+10/22/2018 2:53:03 PM : Getting values method started.
+10/22/2018 2:53:03 PM : Getting values method successfully finished.
+10/22/2018 2:53:03 PM : Getting values method started.
+10/22/2018 2:53:03 PM : Getting values method successfully finished.
+10/22/2018 2:53:23 PM : Getting extent values method started.
+10/22/2018 2:53:23 PM : Getting extent values method successfully finished.
+10/22/2018 2:53:27 PM : Getting extent values method started.
+10/22/2018 2:53:27 PM : Getting extent values method successfully finished.
+10/22/2018 2:53:34 PM : Getting extent values method started.
+10/22/2018 2:53:34 PM : Getting extent values method successfully finished.
+10/22/2018 2:53:35 PM : Getting values method started.
+10/22/2018 2:53:35 PM : Getting values method successfully finished.
+10/22/2018 2:53:35 PM : Getting values method started.
+10/22/2018 2:53:35 PM : Getting values method successfully finished.
+10/22/2018 2:53:35 PM : Getting values method started.
+10/22/2018 2:53:35 PM : Getting values method successfully finished.
+10/22/2018 2:53:42 PM : Getting extent values method started.
+10/22/2018 2:53:42 PM : Getting extent values method successfully finished.
+10/22/2018 3:12:09 PM : Getting extent values method started.
+10/22/2018 3:12:15 PM : Getting extent values method successfully finished.
+10/22/2018 3:13:02 PM : Getting extent values method started.
+10/22/2018 3:13:02 PM : Getting extent values method successfully finished.
+10/22/2018 3:13:02 PM : Getting values method started.
+10/22/2018 3:13:02 PM : Getting values method successfully finished.
+10/22/2018 3:13:02 PM : Getting values method started.
+10/22/2018 3:13:02 PM : Getting values method successfully finished.
+10/22/2018 3:13:02 PM : Getting values method started.
+10/22/2018 3:13:02 PM : Getting values method successfully finished.
+10/22/2018 3:25:05 PM : Getting extent values method started.
+10/22/2018 3:25:08 PM : Getting extent values method successfully finished.
+10/22/2018 3:26:00 PM : Getting extent values method started.
+10/22/2018 3:26:00 PM : Getting extent values method successfully finished.
+10/22/2018 3:26:00 PM : Getting values method started.
+10/22/2018 3:26:00 PM : Getting values method successfully finished.
+10/22/2018 3:26:00 PM : Getting values method started.
+10/22/2018 3:26:00 PM : Getting values method successfully finished.
+10/22/2018 3:26:00 PM : Getting values method started.
+10/22/2018 3:26:00 PM : Getting values method successfully finished.
+10/22/2018 3:28:13 PM : Getting extent values method started.
+10/22/2018 3:28:13 PM : Getting extent values method successfully finished.
+10/22/2018 3:32:54 PM : Getting extent values method started.
+10/22/2018 3:32:54 PM : Getting extent values method successfully finished.
+10/22/2018 3:32:54 PM : Getting values method started.
+10/22/2018 3:32:54 PM : Getting values method successfully finished.
+10/22/2018 3:32:54 PM : Getting values method started.
+10/22/2018 3:32:54 PM : Getting values method successfully finished.
+10/22/2018 3:32:54 PM : Getting values method started.
+10/22/2018 3:32:54 PM : Getting values method successfully finished.
+10/22/2018 3:37:48 PM : Getting extent values method started.
+10/22/2018 3:37:48 PM : Getting extent values method successfully finished.
+10/22/2018 3:37:52 PM : Getting values method started.
+10/22/2018 3:37:52 PM : Getting values method successfully finished.
+10/22/2018 3:40:34 PM : Getting extent values method started.
+10/22/2018 3:40:34 PM : Getting extent values method successfully finished.
+10/22/2018 3:40:34 PM : Getting values method started.
+10/22/2018 3:40:34 PM : Getting values method successfully finished.
+10/22/2018 3:40:34 PM : Getting values method started.
+10/22/2018 3:40:34 PM : Getting values method successfully finished.
+10/22/2018 3:40:34 PM : Getting values method started.
+10/22/2018 3:40:34 PM : Getting values method successfully finished.
+10/22/2018 3:46:05 PM : Getting extent values method started.
+10/22/2018 3:46:10 PM : Getting extent values method successfully finished.
+10/22/2018 3:46:15 PM : Getting extent values method started.
+10/22/2018 3:46:15 PM : Getting extent values method successfully finished.
+10/22/2018 3:46:15 PM : Getting values method started.
+10/22/2018 3:46:15 PM : Getting values method successfully finished.
+10/22/2018 3:46:15 PM : Getting values method started.
+10/22/2018 3:46:15 PM : Getting values method successfully finished.
+10/22/2018 3:46:15 PM : Getting values method started.
+10/22/2018 3:46:15 PM : Getting values method successfully finished.
+10/22/2018 3:49:23 PM : Getting extent values method started.
+10/22/2018 3:49:32 PM : Getting extent values method successfully finished.
+10/22/2018 3:49:46 PM : Getting extent values method started.
+10/22/2018 3:49:47 PM : Getting extent values method successfully finished.
+10/22/2018 3:49:47 PM : Getting values method started.
+10/22/2018 3:49:47 PM : Getting values method successfully finished.
+10/22/2018 3:49:47 PM : Getting values method started.
+10/22/2018 3:49:47 PM : Getting values method successfully finished.
+10/22/2018 3:49:47 PM : Getting values method started.
+10/22/2018 3:49:47 PM : Getting values method successfully finished.
+10/22/2018 3:53:30 PM : Getting extent values method started.
+10/22/2018 3:53:30 PM : Getting extent values method successfully finished.
+10/22/2018 3:53:30 PM : Getting values method started.
+10/22/2018 3:53:31 PM : Getting values method successfully finished.
+10/22/2018 3:53:31 PM : Getting values method started.
+10/22/2018 3:53:31 PM : Getting values method successfully finished.
+10/22/2018 3:53:31 PM : Getting values method started.
+10/22/2018 3:53:31 PM : Getting values method successfully finished.
+10/22/2018 3:54:09 PM : Getting extent values method started.
+10/22/2018 3:54:09 PM : Getting extent values method successfully finished.
+10/22/2018 3:54:09 PM : Getting values method started.
+10/22/2018 3:54:09 PM : Getting values method successfully finished.
+10/22/2018 3:54:09 PM : Getting values method started.
+10/22/2018 3:54:09 PM : Getting values method successfully finished.
+10/22/2018 3:54:09 PM : Getting values method started.
+10/22/2018 3:54:09 PM : Getting values method successfully finished.
+10/22/2018 3:56:41 PM : Getting extent values method started.
+10/22/2018 3:56:48 PM : Getting extent values method successfully finished.
+10/22/2018 3:57:08 PM : Getting extent values method started.
+10/22/2018 3:57:09 PM : Getting extent values method successfully finished.
+10/22/2018 3:57:09 PM : Getting values method started.
+10/22/2018 3:57:09 PM : Getting values method successfully finished.
+10/22/2018 3:57:09 PM : Getting values method started.
+10/22/2018 3:57:09 PM : Getting values method successfully finished.
+10/22/2018 3:57:09 PM : Getting values method started.
+10/22/2018 3:57:09 PM : Getting values method successfully finished.
+10/22/2018 3:59:02 PM : Getting extent values method started.
+10/22/2018 3:59:02 PM : Getting extent values method successfully finished.
+10/22/2018 3:59:49 PM : Getting extent values method started.
+10/22/2018 3:59:49 PM : Getting extent values method successfully finished.
+10/22/2018 3:59:53 PM : Getting extent values method started.
+10/22/2018 3:59:53 PM : Getting extent values method successfully finished.
+10/22/2018 4:00:08 PM : Getting extent values method started.
+10/22/2018 4:00:08 PM : Getting extent values method successfully finished.
+10/22/2018 4:02:30 PM : Getting extent values method started.
+10/22/2018 4:02:30 PM : Getting extent values method successfully finished.
+10/22/2018 4:02:53 PM : Getting extent values method started.
+10/22/2018 4:02:53 PM : Getting extent values method successfully finished.
+10/22/2018 4:16:01 PM : Getting extent values method started.
+10/22/2018 4:16:03 PM : Getting extent values method successfully finished.
+10/22/2018 4:16:10 PM : Getting extent values method started.
+10/22/2018 4:16:10 PM : Getting extent values method successfully finished.
+10/22/2018 4:27:00 PM : Getting extent values method started.
+10/22/2018 4:27:03 PM : Getting extent values method successfully finished.
+10/22/2018 4:28:28 PM : Getting extent values method started.
+10/22/2018 4:28:28 PM : Getting extent values method successfully finished.
+10/22/2018 4:46:14 PM : Getting extent values method started.
+10/22/2018 4:46:17 PM : Getting extent values method successfully finished.
+10/22/2018 4:46:54 PM : Getting values method started.
+10/22/2018 4:46:54 PM : Getting values method successfully finished.
+10/22/2018 4:46:54 PM : Getting values method started.
+10/22/2018 4:46:54 PM : Getting values method successfully finished.
+10/22/2018 4:46:54 PM : Getting values method started.
+10/22/2018 4:46:54 PM : Getting values method successfully finished.
+10/22/2018 4:48:17 PM : Getting values method started.
+10/22/2018 4:48:17 PM : Getting values method successfully finished.
+10/22/2018 4:48:17 PM : Getting values method started.
+10/22/2018 4:48:17 PM : Getting values method successfully finished.
+10/22/2018 4:48:17 PM : Getting values method started.
+10/22/2018 4:48:17 PM : Getting values method successfully finished.
+10/22/2018 4:49:49 PM : Getting extent values method started.
+10/22/2018 4:49:51 PM : Getting extent values method successfully finished.
+10/22/2018 4:49:56 PM : Getting values method started.
+10/22/2018 4:49:56 PM : Getting values method successfully finished.
+10/22/2018 4:49:56 PM : Getting values method started.
+10/22/2018 4:49:56 PM : Getting values method successfully finished.
+10/22/2018 4:49:56 PM : Getting values method started.
+10/22/2018 4:49:56 PM : Getting values method successfully finished.
+10/22/2018 4:52:19 PM : Getting extent values method started.
+10/22/2018 4:52:22 PM : Getting extent values method successfully finished.
+10/22/2018 4:52:34 PM : Getting values method started.
+10/22/2018 4:52:34 PM : Getting values method successfully finished.
+10/22/2018 4:52:34 PM : Getting values method started.
+10/22/2018 4:52:34 PM : Getting values method successfully finished.
+10/22/2018 4:52:34 PM : Getting values method started.
+10/22/2018 4:52:34 PM : Getting values method successfully finished.
+10/22/2018 5:06:10 PM : Getting extent values method started.
+10/22/2018 5:06:14 PM : Getting extent values method successfully finished.
+10/22/2018 5:06:18 PM : Getting values method started.
+10/22/2018 5:06:18 PM : Getting values method successfully finished.
+10/22/2018 5:06:18 PM : Getting values method started.
+10/22/2018 5:06:18 PM : Getting values method successfully finished.
+10/22/2018 5:06:18 PM : Getting values method started.
+10/22/2018 5:06:18 PM : Getting values method successfully finished.
+10/22/2018 5:07:29 PM : Getting values method started.
+10/22/2018 5:07:29 PM : Getting values method successfully finished.
+10/22/2018 5:07:29 PM : Getting values method started.
+10/22/2018 5:07:29 PM : Getting values method successfully finished.
+10/22/2018 5:07:29 PM : Getting values method started.
+10/22/2018 5:07:29 PM : Getting values method successfully finished.
+10/22/2018 5:11:28 PM : Getting extent values method started.
+10/22/2018 5:11:31 PM : Getting extent values method successfully finished.
+10/22/2018 5:11:34 PM : Getting values method started.
+10/22/2018 5:11:34 PM : Getting values method successfully finished.
+10/22/2018 5:11:34 PM : Getting values method started.
+10/22/2018 5:11:34 PM : Getting values method successfully finished.
+10/22/2018 5:11:34 PM : Getting values method started.
+10/22/2018 5:11:34 PM : Getting values method successfully finished.
+10/22/2018 5:26:27 PM : Getting extent values method started.
+10/22/2018 5:26:29 PM : Getting extent values method successfully finished.
+10/22/2018 5:26:34 PM : Getting values method started.
+10/22/2018 5:26:34 PM : Getting values method successfully finished.
+10/22/2018 5:26:34 PM : Getting values method started.
+10/22/2018 5:26:34 PM : Getting values method successfully finished.
+10/22/2018 5:26:34 PM : Getting values method started.
+10/22/2018 5:26:34 PM : Getting values method successfully finished.
+10/22/2018 5:26:38 PM : Getting values method started.
+10/22/2018 5:26:38 PM : Getting values method successfully finished.
+10/22/2018 5:26:38 PM : Getting values method started.
+10/22/2018 5:26:38 PM : Getting values method successfully finished.
+10/22/2018 5:26:38 PM : Getting values method started.
+10/22/2018 5:26:38 PM : Getting values method successfully finished.
+10/22/2018 5:26:57 PM : Getting values method started.
+10/22/2018 5:26:57 PM : Getting values method successfully finished.
+10/22/2018 5:26:57 PM : Getting values method started.
+10/22/2018 5:26:57 PM : Getting values method successfully finished.
+10/22/2018 5:26:57 PM : Getting values method started.
+10/22/2018 5:26:57 PM : Getting values method successfully finished.
+10/22/2018 5:29:52 PM : Getting extent values method started.
+10/22/2018 5:29:54 PM : Getting extent values method successfully finished.
+10/22/2018 5:30:19 PM : Getting values method started.
+10/22/2018 5:30:19 PM : Getting values method successfully finished.
+10/22/2018 5:36:50 PM : Getting extent values method started.
+10/22/2018 5:36:52 PM : Getting extent values method successfully finished.
+10/22/2018 5:37:10 PM : Getting values method started.
+10/22/2018 5:37:10 PM : Getting values method successfully finished.
+10/22/2018 5:37:10 PM : Getting values method started.
+10/22/2018 5:37:10 PM : Getting values method successfully finished.
+10/22/2018 5:37:10 PM : Getting values method started.
+10/22/2018 5:37:10 PM : Getting values method successfully finished.
+10/22/2018 5:37:15 PM : Getting values method started.
+10/22/2018 5:37:15 PM : Getting values method successfully finished.
+10/22/2018 5:37:15 PM : Getting values method started.
+10/22/2018 5:37:15 PM : Getting values method successfully finished.
+10/22/2018 5:37:15 PM : Getting values method started.
+10/22/2018 5:37:15 PM : Getting values method successfully finished.
+10/22/2018 5:37:16 PM : Getting values method started.
+10/22/2018 5:37:16 PM : Getting values method successfully finished.
+10/22/2018 5:37:16 PM : Getting values method started.
+10/22/2018 5:37:16 PM : Getting values method successfully finished.
+10/22/2018 5:37:16 PM : Getting values method started.
+10/22/2018 5:37:16 PM : Getting values method successfully finished.
+10/22/2018 5:37:16 PM : Getting values method started.
+10/22/2018 5:37:16 PM : Getting values method successfully finished.
+10/22/2018 5:37:16 PM : Getting values method started.
+10/22/2018 5:37:16 PM : Getting values method successfully finished.
+10/22/2018 5:37:16 PM : Getting values method started.
+10/22/2018 5:37:16 PM : Getting values method successfully finished.
+10/22/2018 5:37:37 PM : Getting values method started.
+10/22/2018 5:37:37 PM : Getting values method successfully finished.
+10/22/2018 5:37:37 PM : Getting values method started.
+10/22/2018 5:37:37 PM : Getting values method successfully finished.
+10/22/2018 5:37:37 PM : Getting values method started.
+10/22/2018 5:37:37 PM : Getting values method successfully finished.
+10/22/2018 5:43:35 PM : Getting extent values method started.
+10/22/2018 5:43:37 PM : Getting extent values method successfully finished.
+10/22/2018 5:43:40 PM : Getting values method started.
+10/22/2018 5:43:40 PM : Getting values method successfully finished.
+10/22/2018 5:43:40 PM : Getting values method started.
+10/22/2018 5:43:40 PM : Getting values method successfully finished.
+10/22/2018 5:43:40 PM : Getting values method started.
+10/22/2018 5:43:40 PM : Getting values method successfully finished.
+10/22/2018 5:50:07 PM : Getting extent values method started.
+10/22/2018 5:50:09 PM : Getting extent values method successfully finished.
+10/22/2018 5:50:13 PM : Getting values method started.
+10/22/2018 5:50:13 PM : Getting values method successfully finished.
+10/22/2018 5:50:13 PM : Getting values method started.
+10/22/2018 5:50:13 PM : Getting values method successfully finished.
+10/22/2018 5:50:13 PM : Getting values method started.
+10/22/2018 5:50:13 PM : Getting values method successfully finished.
+10/22/2018 5:55:49 PM : Getting extent values method started.
+10/22/2018 5:55:51 PM : Getting extent values method successfully finished.
+10/22/2018 5:56:01 PM : Getting values method started.
+10/22/2018 5:56:01 PM : Getting values method successfully finished.
+10/22/2018 5:56:01 PM : Getting values method started.
+10/22/2018 5:56:01 PM : Getting values method successfully finished.
+10/22/2018 5:56:01 PM : Getting values method started.
+10/22/2018 5:56:01 PM : Getting values method successfully finished.
+10/22/2018 5:56:18 PM : Getting extent values method started.
+10/22/2018 5:56:18 PM : Getting extent values method successfully finished.
+10/22/2018 5:56:25 PM : Getting values method started.
+10/22/2018 5:56:25 PM : Getting values method successfully finished.
+10/22/2018 5:56:25 PM : Getting values method started.
+10/22/2018 5:56:25 PM : Getting values method successfully finished.
+10/22/2018 5:56:25 PM : Getting values method started.
+10/22/2018 5:56:25 PM : Getting values method successfully finished.
+10/22/2018 5:56:25 PM : Getting values method started.
+10/22/2018 5:56:25 PM : Getting values method successfully finished.
+10/22/2018 5:56:25 PM : Getting values method started.
+10/22/2018 5:56:25 PM : Getting values method successfully finished.
+10/22/2018 5:56:25 PM : Getting values method started.
+10/22/2018 5:56:25 PM : Getting values method successfully finished.
+10/22/2018 5:56:36 PM : Getting extent values method started.
+10/22/2018 5:56:36 PM : Getting extent values method successfully finished.
+10/22/2018 5:56:42 PM : Getting extent values method started.
+10/22/2018 5:56:42 PM : Getting extent values method successfully finished.
+10/22/2018 5:56:51 PM : Getting extent values method started.
+10/22/2018 5:56:51 PM : Getting extent values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:56:58 PM : Getting values method started.
+10/22/2018 5:56:58 PM : Getting values method successfully finished.
+10/22/2018 5:58:26 PM : Getting extent values method started.
+10/22/2018 5:58:31 PM : Getting extent values method successfully finished.
+10/22/2018 5:58:39 PM : Getting values method started.
+10/22/2018 5:58:39 PM : Getting values method successfully finished.
+10/22/2018 5:58:39 PM : Getting values method started.
+10/22/2018 5:58:39 PM : Getting values method successfully finished.
+10/22/2018 5:58:39 PM : Getting values method started.
+10/22/2018 5:58:39 PM : Getting values method successfully finished.
+10/22/2018 5:58:53 PM : Getting extent values method started.
+10/22/2018 5:58:53 PM : Getting extent values method successfully finished.
+10/22/2018 6:05:26 PM : Getting extent values method started.
+10/22/2018 6:05:31 PM : Getting extent values method successfully finished.
+10/22/2018 6:07:10 PM : Getting extent values method started.
+10/22/2018 6:07:14 PM : Getting extent values method successfully finished.
+10/22/2018 6:08:32 PM : Getting extent values method started.
+10/22/2018 6:08:32 PM : Getting extent values method successfully finished.
+10/22/2018 6:13:31 PM : Getting extent values method started.
+10/22/2018 6:13:33 PM : Getting extent values method successfully finished.
+10/22/2018 6:13:35 PM : Getting extent values method started.
+10/22/2018 6:13:35 PM : Getting extent values method successfully finished.
+10/22/2018 6:13:35 PM : Getting values method started.
+10/22/2018 6:13:35 PM : Getting values method successfully finished.
+10/22/2018 6:13:35 PM : Getting values method started.
+10/22/2018 6:13:35 PM : Getting values method successfully finished.
+10/22/2018 6:13:35 PM : Getting values method started.
+10/22/2018 6:13:35 PM : Getting values method successfully finished.
+10/22/2018 6:13:43 PM : Getting extent values method started.
+10/22/2018 6:13:43 PM : Getting extent values method successfully finished.
+10/22/2018 6:13:44 PM : Getting extent values method started.
+10/22/2018 6:13:44 PM : Getting extent values method successfully finished.
+10/22/2018 6:13:44 PM : Getting values method started.
+10/22/2018 6:13:44 PM : Getting values method successfully finished.
+10/22/2018 6:13:44 PM : Getting values method started.
+10/22/2018 6:13:44 PM : Getting values method successfully finished.
+10/22/2018 6:13:44 PM : Getting values method started.
+10/22/2018 6:13:44 PM : Getting values method successfully finished.
+10/22/2018 6:14:09 PM : Getting extent values method started.
+10/22/2018 6:14:09 PM : Getting extent values method successfully finished.
+10/22/2018 6:14:10 PM : Getting extent values method started.
+10/22/2018 6:14:10 PM : Getting extent values method successfully finished.
+10/22/2018 6:14:10 PM : Getting values method started.
+10/22/2018 6:14:10 PM : Getting values method successfully finished.
+10/22/2018 6:14:10 PM : Getting values method started.
+10/22/2018 6:14:10 PM : Getting values method successfully finished.
+10/22/2018 6:14:10 PM : Getting values method started.
+10/22/2018 6:14:10 PM : Getting values method successfully finished.
+10/22/2018 6:18:55 PM : Getting extent values method started.
+10/22/2018 6:18:58 PM : Getting extent values method successfully finished.
+10/22/2018 6:18:59 PM : Getting extent values method started.
+10/22/2018 6:18:59 PM : Getting extent values method successfully finished.
+10/22/2018 6:18:59 PM : Getting values method started.
+10/22/2018 6:18:59 PM : Getting values method successfully finished.
+10/22/2018 6:18:59 PM : Getting values method started.
+10/22/2018 6:18:59 PM : Getting values method successfully finished.
+10/22/2018 6:18:59 PM : Getting values method started.
+10/22/2018 6:18:59 PM : Getting values method successfully finished.
+10/22/2018 6:20:57 PM : Getting values method started.
+10/22/2018 6:20:57 PM : Getting values method successfully finished.
+10/22/2018 6:20:57 PM : Getting values method started.
+10/22/2018 6:20:57 PM : Getting values method successfully finished.
+10/22/2018 6:20:57 PM : Getting values method started.
+10/22/2018 6:20:57 PM : Getting values method successfully finished.
+10/22/2018 6:21:08 PM : Getting values method started.
+10/22/2018 6:21:08 PM : Getting values method successfully finished.
+10/22/2018 6:21:08 PM : Getting values method started.
+10/22/2018 6:21:08 PM : Getting values method successfully finished.
+10/22/2018 6:21:08 PM : Getting values method started.
+10/22/2018 6:21:08 PM : Getting values method successfully finished.
+10/22/2018 6:21:15 PM : Getting values method started.
+10/22/2018 6:21:15 PM : Getting values method successfully finished.
+10/22/2018 6:21:15 PM : Getting values method started.
+10/22/2018 6:21:15 PM : Getting values method successfully finished.
+10/22/2018 6:21:15 PM : Getting values method started.
+10/22/2018 6:21:15 PM : Getting values method successfully finished.
+10/22/2018 6:21:21 PM : Getting values method started.
+10/22/2018 6:21:21 PM : Getting values method successfully finished.
+10/22/2018 6:21:21 PM : Getting values method started.
+10/22/2018 6:21:21 PM : Getting values method successfully finished.
+10/22/2018 6:21:21 PM : Getting values method started.
+10/22/2018 6:21:21 PM : Getting values method successfully finished.
+10/22/2018 6:21:24 PM : Getting extent values method started.
+10/22/2018 6:21:24 PM : Getting extent values method successfully finished.
+10/22/2018 6:21:26 PM : Getting extent values method started.
+10/22/2018 6:21:26 PM : Getting extent values method successfully finished.
+10/22/2018 6:21:26 PM : Getting values method started.
+10/22/2018 6:21:26 PM : Getting values method successfully finished.
+10/22/2018 6:21:26 PM : Getting values method started.
+10/22/2018 6:21:26 PM : Getting values method successfully finished.
+10/22/2018 6:21:26 PM : Getting values method started.
+10/22/2018 6:21:26 PM : Getting values method successfully finished.
+10/22/2018 6:21:32 PM : Getting values method started.
+10/22/2018 6:21:32 PM : Getting values method successfully finished.
+10/22/2018 6:21:32 PM : Getting values method started.
+10/22/2018 6:21:32 PM : Getting values method successfully finished.
+10/22/2018 6:21:32 PM : Getting values method started.
+10/22/2018 6:21:32 PM : Getting values method successfully finished.
+10/22/2018 6:21:32 PM : Getting values method started.
+10/22/2018 6:21:32 PM : Getting values method successfully finished.
+10/22/2018 6:21:32 PM : Getting values method started.
+10/22/2018 6:21:32 PM : Getting values method successfully finished.
+10/22/2018 6:21:32 PM : Getting values method started.
+10/22/2018 6:21:32 PM : Getting values method successfully finished.
+10/22/2018 6:21:41 PM : Getting extent values method started.
+10/22/2018 6:21:41 PM : Getting extent values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:47 PM : Getting values method started.
+10/22/2018 6:21:47 PM : Getting values method successfully finished.
+10/22/2018 6:21:53 PM : Getting extent values method started.
+10/22/2018 6:21:53 PM : Getting extent values method successfully finished.
+10/22/2018 6:21:55 PM : Getting extent values method started.
+10/22/2018 6:21:55 PM : Getting extent values method successfully finished.
+10/22/2018 6:21:55 PM : Getting values method started.
+10/22/2018 6:21:55 PM : Getting values method successfully finished.
+10/22/2018 6:21:55 PM : Getting values method started.
+10/22/2018 6:21:55 PM : Getting values method successfully finished.
+10/22/2018 6:21:55 PM : Getting values method started.
+10/22/2018 6:21:55 PM : Getting values method successfully finished.
+10/22/2018 6:22:07 PM : Getting values method started.
+10/22/2018 6:22:07 PM : Getting values method successfully finished.
+10/22/2018 6:22:07 PM : Getting values method started.
+10/22/2018 6:22:07 PM : Getting values method successfully finished.
+10/22/2018 6:22:07 PM : Getting values method started.
+10/22/2018 6:22:07 PM : Getting values method successfully finished.
+10/22/2018 6:22:07 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:08 PM : Getting values method started.
+10/22/2018 6:22:08 PM : Getting values method successfully finished.
+10/22/2018 6:22:25 PM : Getting extent values method started.
+10/22/2018 6:22:25 PM : Getting extent values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:22:50 PM : Getting values method started.
+10/22/2018 6:22:50 PM : Getting values method successfully finished.
+10/22/2018 6:23:00 PM : Getting extent values method started.
+10/22/2018 6:23:00 PM : Getting extent values method successfully finished.
+10/22/2018 6:23:01 PM : Getting extent values method started.
+10/22/2018 6:23:01 PM : Getting extent values method successfully finished.
+10/22/2018 6:23:01 PM : Getting values method started.
+10/22/2018 6:23:01 PM : Getting values method successfully finished.
+10/22/2018 6:23:01 PM : Getting values method started.
+10/22/2018 6:23:01 PM : Getting values method successfully finished.
+10/22/2018 6:23:01 PM : Getting values method started.
+10/22/2018 6:23:01 PM : Getting values method successfully finished.
+10/22/2018 6:23:57 PM : Getting extent values method started.
+10/22/2018 6:23:57 PM : Getting extent values method successfully finished.
+10/22/2018 6:26:57 PM : Getting extent values method started.
+10/22/2018 6:26:59 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:10 PM : Getting extent values method started.
+10/22/2018 6:27:10 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:10 PM : Getting values method started.
+10/22/2018 6:27:10 PM : Getting values method successfully finished.
+10/22/2018 6:27:10 PM : Getting values method started.
+10/22/2018 6:27:10 PM : Getting values method successfully finished.
+10/22/2018 6:27:10 PM : Getting values method started.
+10/22/2018 6:27:10 PM : Getting values method successfully finished.
+10/22/2018 6:27:15 PM : Getting extent values method started.
+10/22/2018 6:27:15 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:15 PM : Getting extent values method started.
+10/22/2018 6:27:15 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:15 PM : Getting values method started.
+10/22/2018 6:27:15 PM : Getting values method successfully finished.
+10/22/2018 6:27:15 PM : Getting values method started.
+10/22/2018 6:27:15 PM : Getting values method successfully finished.
+10/22/2018 6:27:15 PM : Getting values method started.
+10/22/2018 6:27:15 PM : Getting values method successfully finished.
+10/22/2018 6:27:21 PM : Getting extent values method started.
+10/22/2018 6:27:21 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:22 PM : Getting extent values method started.
+10/22/2018 6:27:22 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:22 PM : Getting values method started.
+10/22/2018 6:27:22 PM : Getting values method successfully finished.
+10/22/2018 6:27:22 PM : Getting values method started.
+10/22/2018 6:27:22 PM : Getting values method successfully finished.
+10/22/2018 6:27:22 PM : Getting values method started.
+10/22/2018 6:27:22 PM : Getting values method successfully finished.
+10/22/2018 6:27:27 PM : Getting extent values method started.
+10/22/2018 6:27:27 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:28 PM : Getting extent values method started.
+10/22/2018 6:27:28 PM : Getting extent values method successfully finished.
+10/22/2018 6:27:28 PM : Getting values method started.
+10/22/2018 6:27:28 PM : Getting values method successfully finished.
+10/22/2018 6:27:28 PM : Getting values method started.
+10/22/2018 6:27:28 PM : Getting values method successfully finished.
+10/22/2018 6:27:28 PM : Getting values method started.
+10/22/2018 6:27:28 PM : Getting values method successfully finished.
+10/22/2018 6:27:36 PM : Getting extent values method started.
+10/22/2018 6:27:36 PM : Getting extent values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:28:01 PM : Getting values method started.
+10/22/2018 6:28:01 PM : Getting values method successfully finished.
+10/22/2018 6:29:38 PM : Getting extent values method started.
+10/22/2018 6:29:41 PM : Getting extent values method successfully finished.
+10/22/2018 6:30:25 PM : Getting values method started.
+10/22/2018 6:30:25 PM : Getting values method successfully finished.
+10/22/2018 6:30:25 PM : Getting values method started.
+10/22/2018 6:30:25 PM : Getting values method successfully finished.
+10/22/2018 6:30:25 PM : Getting values method started.
+10/22/2018 6:30:25 PM : Getting values method successfully finished.
+10/22/2018 6:30:48 PM : Getting values method started.
+10/22/2018 6:30:48 PM : Getting values method successfully finished.
+10/22/2018 6:30:48 PM : Getting values method started.
+10/22/2018 6:30:48 PM : Getting values method successfully finished.
+10/22/2018 6:30:48 PM : Getting values method started.
+10/22/2018 6:30:48 PM : Getting values method successfully finished.
+10/22/2018 6:31:20 PM : Getting values method started.
+10/22/2018 6:31:20 PM : Getting values method successfully finished.
+10/22/2018 6:31:20 PM : Getting values method started.
+10/22/2018 6:31:20 PM : Getting values method successfully finished.
+10/22/2018 6:31:20 PM : Getting values method started.
+10/22/2018 6:31:20 PM : Getting values method successfully finished.
+10/22/2018 6:34:52 PM : Getting extent values method started.
+10/22/2018 6:34:55 PM : Getting extent values method successfully finished.
+10/22/2018 6:35:00 PM : Getting values method started.
+10/22/2018 6:35:00 PM : Getting values method successfully finished.
+10/22/2018 6:35:00 PM : Getting values method started.
+10/22/2018 6:35:00 PM : Getting values method successfully finished.
+10/22/2018 6:35:00 PM : Getting values method started.
+10/22/2018 6:35:00 PM : Getting values method successfully finished.
+10/22/2018 6:35:13 PM : Getting values method started.
+10/22/2018 6:35:13 PM : Getting values method successfully finished.
+10/22/2018 6:35:13 PM : Getting values method started.
+10/22/2018 6:35:13 PM : Getting values method successfully finished.
+10/22/2018 6:35:13 PM : Getting values method started.
+10/22/2018 6:35:13 PM : Getting values method successfully finished.
+10/22/2018 6:45:22 PM : Getting extent values method started.
+10/22/2018 6:45:32 PM : Getting extent values method successfully finished.
+10/22/2018 6:45:34 PM : Getting extent values method started.
+10/22/2018 6:45:35 PM : Getting extent values method successfully finished.
+10/22/2018 6:45:35 PM : Getting values method started.
+10/22/2018 6:45:35 PM : Getting values method successfully finished.
+10/22/2018 6:45:35 PM : Getting values method started.
+10/22/2018 6:45:35 PM : Getting values method successfully finished.
+10/22/2018 6:45:35 PM : Getting values method started.
+10/22/2018 6:45:35 PM : Getting values method successfully finished.
+10/22/2018 6:45:54 PM : Getting extent values method started.
+10/22/2018 6:45:54 PM : Getting extent values method successfully finished.
+10/22/2018 6:46:16 PM : Getting extent values method started.
+10/22/2018 6:46:16 PM : Getting extent values method successfully finished.
+10/22/2018 6:46:23 PM : Getting values method started.
+10/22/2018 6:46:23 PM : Getting values method successfully finished.
+10/22/2018 6:46:23 PM : Getting values method started.
+10/22/2018 6:46:23 PM : Getting values method successfully finished.
+10/22/2018 6:46:23 PM : Getting values method started.
+10/22/2018 6:46:23 PM : Getting values method successfully finished.
+10/22/2018 6:46:23 PM : Getting values method started.
+10/22/2018 6:46:24 PM : Getting values method successfully finished.
+10/22/2018 6:46:24 PM : Getting values method started.
+10/22/2018 6:46:24 PM : Getting values method successfully finished.
+10/22/2018 6:46:24 PM : Getting values method started.
+10/22/2018 6:46:24 PM : Getting values method successfully finished.
+10/22/2018 6:46:24 PM : Getting values method started.
+10/22/2018 6:46:24 PM : Getting values method successfully finished.
+10/22/2018 6:46:24 PM : Getting values method started.
+10/22/2018 6:46:24 PM : Getting values method successfully finished.
+10/22/2018 6:46:24 PM : Getting values method started.
+10/22/2018 6:46:24 PM : Getting values method successfully finished.
+10/22/2018 6:46:41 PM : Getting extent values method started.
+10/22/2018 6:46:41 PM : Getting extent values method successfully finished.
+10/22/2018 6:46:51 PM : Getting extent values method started.
+10/22/2018 6:46:51 PM : Getting extent values method successfully finished.
+10/22/2018 6:46:51 PM : Getting values method started.
+10/22/2018 6:46:51 PM : Getting values method successfully finished.
+10/22/2018 6:46:51 PM : Getting values method started.
+10/22/2018 6:46:51 PM : Getting values method successfully finished.
+10/22/2018 6:46:51 PM : Getting values method started.
+10/22/2018 6:46:51 PM : Getting values method successfully finished.
+10/22/2018 6:46:56 PM : Getting extent values method started.
+10/22/2018 6:46:56 PM : Getting extent values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:46:59 PM : Getting values method started.
+10/22/2018 6:46:59 PM : Getting values method successfully finished.
+10/22/2018 6:47:07 PM : Getting extent values method started.
+10/22/2018 6:47:08 PM : Getting extent values method successfully finished.
+10/22/2018 6:48:10 PM : Getting extent values method started.
+10/22/2018 6:48:21 PM : Getting extent values method successfully finished.
+10/22/2018 6:48:24 PM : Getting values method started.
+10/22/2018 6:48:24 PM : Getting values method successfully finished.
+10/22/2018 6:48:31 PM : Getting values method started.
+10/22/2018 6:48:31 PM : Getting values method successfully finished.
+10/22/2018 6:48:42 PM : Getting values method started.
+10/22/2018 6:48:42 PM : Getting values method successfully finished.
+10/22/2018 6:48:42 PM : Getting related values method started.
+10/22/2018 6:48:42 PM : Getting related values method successfully finished.
+10/22/2018 6:48:42 PM : Getting values method started.
+10/22/2018 6:48:42 PM : Getting values method successfully finished.
+10/22/2018 6:49:20 PM : Getting values method started.
+10/22/2018 6:49:20 PM : Getting values method successfully finished.
+10/22/2018 6:49:25 PM : Getting extent values method started.
+10/22/2018 6:49:25 PM : Getting extent values method successfully finished.
+10/22/2018 6:49:27 PM : Getting values method started.
+10/22/2018 6:49:28 PM : Getting values method successfully finished.
+10/22/2018 6:49:30 PM : Getting values method started.
+10/22/2018 6:49:30 PM : Getting values method successfully finished.
+10/22/2018 6:55:06 PM : Getting extent values method started.
+10/22/2018 6:55:11 PM : Getting extent values method successfully finished.
+10/22/2018 6:55:14 PM : Getting values method started.
+10/22/2018 6:55:14 PM : Getting values method successfully finished.
+10/22/2018 7:07:38 PM : Getting extent values method started.
+10/22/2018 7:07:46 PM : Getting extent values method successfully finished.
+10/22/2018 7:07:51 PM : Getting values method started.
+10/22/2018 7:07:51 PM : Getting values method successfully finished.
+10/22/2018 7:07:51 PM : Getting values method started.
+10/22/2018 7:07:51 PM : Getting values method successfully finished.
+10/22/2018 7:07:51 PM : Getting values method started.
+10/22/2018 7:07:51 PM : Getting values method successfully finished.
+10/22/2018 7:35:09 PM : Getting extent values method started.
+10/22/2018 7:35:18 PM : Getting extent values method successfully finished.
+10/22/2018 7:35:30 PM : Getting values method started.
+10/22/2018 7:35:30 PM : Getting values method successfully finished.
+10/22/2018 7:35:30 PM : Getting values method started.
+10/22/2018 7:35:30 PM : Getting values method successfully finished.
+10/22/2018 7:35:30 PM : Getting values method started.
+10/22/2018 7:35:30 PM : Getting values method successfully finished.
+10/22/2018 7:35:39 PM : Getting values method started.
+10/22/2018 7:35:39 PM : Getting values method successfully finished.
+10/22/2018 7:35:39 PM : Getting values method started.
+10/22/2018 7:35:39 PM : Getting values method successfully finished.
+10/22/2018 7:35:39 PM : Getting values method started.
+10/22/2018 7:35:39 PM : Getting values method successfully finished.
+10/22/2018 7:35:59 PM : Getting values method started.
+10/22/2018 7:35:59 PM : Getting values method successfully finished.
+10/22/2018 7:35:59 PM : Getting values method started.
+10/22/2018 7:35:59 PM : Getting values method successfully finished.
+10/22/2018 7:35:59 PM : Getting values method started.
+10/22/2018 7:35:59 PM : Getting values method successfully finished.
+10/22/2018 7:36:11 PM : Getting values method started.
+10/22/2018 7:36:11 PM : Getting values method successfully finished.
+10/22/2018 7:36:11 PM : Getting values method started.
+10/22/2018 7:36:11 PM : Getting values method successfully finished.
+10/22/2018 7:36:11 PM : Getting values method started.
+10/22/2018 7:36:11 PM : Getting values method successfully finished.
+10/22/2018 7:36:20 PM : Getting values method started.
+10/22/2018 7:36:20 PM : Getting values method successfully finished.
+10/22/2018 7:36:20 PM : Getting values method started.
+10/22/2018 7:36:20 PM : Getting values method successfully finished.
+10/22/2018 7:36:20 PM : Getting values method started.
+10/22/2018 7:36:20 PM : Getting values method successfully finished.
+10/22/2018 7:36:30 PM : Getting values method started.
+10/22/2018 7:36:30 PM : Getting values method successfully finished.
+10/22/2018 7:36:30 PM : Getting values method started.
+10/22/2018 7:36:30 PM : Getting values method successfully finished.
+10/22/2018 7:36:30 PM : Getting values method started.
+10/22/2018 7:36:31 PM : Getting values method successfully finished.
+10/22/2018 7:36:37 PM : Getting values method started.
+10/22/2018 7:36:37 PM : Getting values method successfully finished.
+10/22/2018 7:36:37 PM : Getting values method started.
+10/22/2018 7:36:37 PM : Getting values method successfully finished.
+10/22/2018 7:36:37 PM : Getting values method started.
+10/22/2018 7:36:37 PM : Getting values method successfully finished.
+10/22/2018 7:36:42 PM : Getting values method started.
+10/22/2018 7:36:42 PM : Getting values method successfully finished.
+10/22/2018 7:36:42 PM : Getting values method started.
+10/22/2018 7:36:43 PM : Getting values method successfully finished.
+10/22/2018 7:36:43 PM : Getting values method started.
+10/22/2018 7:36:43 PM : Getting values method successfully finished.
+10/22/2018 7:36:49 PM : Getting values method started.
+10/22/2018 7:36:49 PM : Getting values method successfully finished.
+10/22/2018 7:36:49 PM : Getting values method started.
+10/22/2018 7:36:49 PM : Getting values method successfully finished.
+10/22/2018 7:36:49 PM : Getting values method started.
+10/22/2018 7:36:49 PM : Getting values method successfully finished.
+10/22/2018 7:36:56 PM : Getting extent values method started.
+10/22/2018 7:36:56 PM : Getting extent values method successfully finished.
+10/22/2018 7:37:07 PM : Getting values method started.
+10/22/2018 7:37:07 PM : Getting values method successfully finished.
+10/22/2018 7:37:07 PM : Getting values method started.
+10/22/2018 7:37:07 PM : Getting values method successfully finished.
+10/22/2018 7:37:07 PM : Getting values method started.
+10/22/2018 7:37:07 PM : Getting values method successfully finished.
+10/22/2018 7:37:07 PM : Getting values method started.
+10/22/2018 7:37:07 PM : Getting values method successfully finished.
+10/22/2018 7:37:07 PM : Getting values method started.
+10/22/2018 7:37:07 PM : Getting values method successfully finished.
+10/22/2018 7:37:07 PM : Getting values method started.
+10/22/2018 7:37:07 PM : Getting values method successfully finished.
+10/22/2018 7:38:30 PM : Getting extent values method started.
+10/22/2018 7:38:38 PM : Getting extent values method successfully finished.
+10/22/2018 7:38:46 PM : Getting values method started.
+10/22/2018 7:38:46 PM : Getting values method successfully finished.
+10/22/2018 7:38:46 PM : Getting values method started.
+10/22/2018 7:38:46 PM : Getting values method successfully finished.
+10/22/2018 7:38:46 PM : Getting values method started.
+10/22/2018 7:38:46 PM : Getting values method successfully finished.
+10/22/2018 7:38:54 PM : Getting values method started.
+10/22/2018 7:38:54 PM : Getting values method successfully finished.
+10/22/2018 7:38:54 PM : Getting values method started.
+10/22/2018 7:38:54 PM : Getting values method successfully finished.
+10/22/2018 7:38:54 PM : Getting values method started.
+10/22/2018 7:38:54 PM : Getting values method successfully finished.
+10/22/2018 7:39:00 PM : Getting values method started.
+10/22/2018 7:39:00 PM : Getting values method successfully finished.
+10/22/2018 7:39:00 PM : Getting values method started.
+10/22/2018 7:39:00 PM : Getting values method successfully finished.
+10/22/2018 7:39:00 PM : Getting values method started.
+10/22/2018 7:39:00 PM : Getting values method successfully finished.
+10/22/2018 7:39:15 PM : Getting extent values method started.
+10/22/2018 7:39:15 PM : Getting extent values method successfully finished.
+10/22/2018 7:39:15 PM : Getting values method started.
+10/22/2018 7:39:15 PM : Getting values method successfully finished.
+10/22/2018 7:39:15 PM : Getting values method started.
+10/22/2018 7:39:15 PM : Getting values method successfully finished.
+10/22/2018 7:39:15 PM : Getting values method started.
+10/22/2018 7:39:15 PM : Getting values method successfully finished.
+10/22/2018 7:39:34 PM : Getting extent values method started.
+10/22/2018 7:39:34 PM : Getting extent values method successfully finished.
+10/22/2018 7:39:37 PM : Getting values method started.
+10/22/2018 7:39:37 PM : Getting values method successfully finished.
+10/22/2018 7:39:37 PM : Getting values method started.
+10/22/2018 7:39:37 PM : Getting values method successfully finished.
+10/22/2018 7:39:37 PM : Getting values method started.
+10/22/2018 7:39:37 PM : Getting values method successfully finished.
+10/22/2018 7:39:37 PM : Getting values method started.
+10/22/2018 7:39:37 PM : Getting values method successfully finished.
+10/22/2018 7:39:37 PM : Getting values method started.
+10/22/2018 7:39:37 PM : Getting values method successfully finished.
+10/22/2018 7:39:37 PM : Getting values method started.
+10/22/2018 7:39:37 PM : Getting values method successfully finished.
+10/22/2018 7:39:46 PM : Getting values method started.
+10/22/2018 7:39:46 PM : Getting values method successfully finished.
+10/22/2018 7:39:46 PM : Getting values method started.
+10/22/2018 7:39:46 PM : Getting values method successfully finished.
+10/22/2018 7:39:46 PM : Getting values method started.
+10/22/2018 7:39:46 PM : Getting values method successfully finished.
+10/22/2018 7:39:46 PM : Getting values method started.
+10/22/2018 7:39:46 PM : Getting values method successfully finished.
+10/22/2018 7:39:46 PM : Getting values method started.
+10/22/2018 7:39:46 PM : Getting values method successfully finished.
+10/22/2018 7:39:46 PM : Getting values method started.
+10/22/2018 7:39:46 PM : Getting values method successfully finished.
+10/22/2018 7:39:54 PM : Getting values method started.
+10/22/2018 7:39:54 PM : Getting values method successfully finished.
+10/22/2018 7:39:54 PM : Getting values method started.
+10/22/2018 7:39:54 PM : Getting values method successfully finished.
+10/22/2018 7:39:54 PM : Getting values method started.
+10/22/2018 7:39:54 PM : Getting values method successfully finished.
+10/22/2018 7:39:54 PM : Getting values method started.
+10/22/2018 7:39:54 PM : Getting values method successfully finished.
+10/22/2018 7:39:54 PM : Getting values method started.
+10/22/2018 7:39:54 PM : Getting values method successfully finished.
+10/22/2018 7:39:54 PM : Getting values method started.
+10/22/2018 7:39:54 PM : Getting values method successfully finished.
+10/22/2018 7:40:03 PM : Getting values method started.
+10/22/2018 7:40:03 PM : Getting values method successfully finished.
+10/22/2018 7:40:03 PM : Getting values method started.
+10/22/2018 7:40:03 PM : Getting values method successfully finished.
+10/22/2018 7:40:03 PM : Getting values method started.
+10/22/2018 7:40:03 PM : Getting values method successfully finished.
+10/22/2018 7:40:03 PM : Getting values method started.
+10/22/2018 7:40:03 PM : Getting values method successfully finished.
+10/22/2018 7:40:03 PM : Getting values method started.
+10/22/2018 7:40:03 PM : Getting values method successfully finished.
+10/22/2018 7:40:03 PM : Getting values method started.
+10/22/2018 7:40:03 PM : Getting values method successfully finished.
+10/22/2018 7:40:10 PM : Getting extent values method started.
+10/22/2018 7:40:10 PM : Getting extent values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:15 PM : Getting values method started.
+10/22/2018 7:40:15 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:19 PM : Getting values method started.
+10/22/2018 7:40:19 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:24 PM : Getting values method started.
+10/22/2018 7:40:24 PM : Getting values method successfully finished.
+10/22/2018 7:40:30 PM : Getting extent values method started.
+10/22/2018 7:40:30 PM : Getting extent values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:40:35 PM : Getting values method started.
+10/22/2018 7:40:35 PM : Getting values method successfully finished.
+10/22/2018 7:44:00 PM : Getting extent values method started.
+10/22/2018 7:44:08 PM : Getting extent values method successfully finished.
+10/22/2018 7:44:11 PM : Getting values method started.
+10/22/2018 7:44:11 PM : Getting values method successfully finished.
+10/22/2018 7:44:11 PM : Getting values method started.
+10/22/2018 7:44:11 PM : Getting values method successfully finished.
+10/22/2018 7:44:11 PM : Getting values method started.
+10/22/2018 7:44:11 PM : Getting values method successfully finished.
+10/22/2018 7:44:22 PM : Getting values method started.
+10/22/2018 7:44:22 PM : Getting values method successfully finished.
+10/22/2018 7:44:22 PM : Getting values method started.
+10/22/2018 7:44:23 PM : Getting values method successfully finished.
+10/22/2018 7:44:23 PM : Getting values method started.
+10/22/2018 7:44:23 PM : Getting values method successfully finished.
+10/22/2018 7:44:29 PM : Getting values method started.
+10/22/2018 7:44:29 PM : Getting values method successfully finished.
+10/22/2018 7:44:29 PM : Getting values method started.
+10/22/2018 7:44:29 PM : Getting values method successfully finished.
+10/22/2018 7:44:29 PM : Getting values method started.
+10/22/2018 7:44:29 PM : Getting values method successfully finished.
+10/22/2018 7:44:39 PM : Getting values method started.
+10/22/2018 7:44:39 PM : Getting values method successfully finished.
+10/22/2018 7:44:39 PM : Getting values method started.
+10/22/2018 7:44:39 PM : Getting values method successfully finished.
+10/22/2018 7:44:39 PM : Getting values method started.
+10/22/2018 7:44:39 PM : Getting values method successfully finished.
+10/22/2018 7:44:44 PM : Getting values method started.
+10/22/2018 7:44:44 PM : Getting values method successfully finished.
+10/22/2018 7:44:44 PM : Getting values method started.
+10/22/2018 7:44:44 PM : Getting values method successfully finished.
+10/22/2018 7:44:44 PM : Getting values method started.
+10/22/2018 7:44:44 PM : Getting values method successfully finished.
+10/22/2018 7:44:50 PM : Getting values method started.
+10/22/2018 7:44:50 PM : Getting values method successfully finished.
+10/22/2018 7:44:50 PM : Getting values method started.
+10/22/2018 7:44:50 PM : Getting values method successfully finished.
+10/22/2018 7:44:50 PM : Getting values method started.
+10/22/2018 7:44:50 PM : Getting values method successfully finished.
+10/22/2018 7:44:55 PM : Getting values method started.
+10/22/2018 7:44:56 PM : Getting values method successfully finished.
+10/22/2018 7:44:56 PM : Getting values method started.
+10/22/2018 7:44:56 PM : Getting values method successfully finished.
+10/22/2018 7:44:56 PM : Getting values method started.
+10/22/2018 7:44:56 PM : Getting values method successfully finished.
+10/22/2018 7:44:59 PM : Getting extent values method started.
+10/22/2018 7:44:59 PM : Getting extent values method successfully finished.
+10/22/2018 7:45:06 PM : Getting values method started.
+10/22/2018 7:45:06 PM : Getting values method successfully finished.
+10/22/2018 7:45:06 PM : Getting values method started.
+10/22/2018 7:45:06 PM : Getting values method successfully finished.
+10/22/2018 7:45:06 PM : Getting values method started.
+10/22/2018 7:45:06 PM : Getting values method successfully finished.
+10/22/2018 7:45:06 PM : Getting values method started.
+10/22/2018 7:45:06 PM : Getting values method successfully finished.
+10/22/2018 7:45:06 PM : Getting values method started.
+10/22/2018 7:45:06 PM : Getting values method successfully finished.
+10/22/2018 7:45:06 PM : Getting values method started.
+10/22/2018 7:45:06 PM : Getting values method successfully finished.
+10/22/2018 7:45:10 PM : Getting values method started.
+10/22/2018 7:45:10 PM : Getting values method successfully finished.
+10/22/2018 7:45:10 PM : Getting values method started.
+10/22/2018 7:45:10 PM : Getting values method successfully finished.
+10/22/2018 7:45:10 PM : Getting values method started.
+10/22/2018 7:45:10 PM : Getting values method successfully finished.
+10/22/2018 7:45:10 PM : Getting values method started.
+10/22/2018 7:45:10 PM : Getting values method successfully finished.
+10/22/2018 7:45:10 PM : Getting values method started.
+10/22/2018 7:45:10 PM : Getting values method successfully finished.
+10/22/2018 7:45:10 PM : Getting values method started.
+10/22/2018 7:45:11 PM : Getting values method successfully finished.
+10/22/2018 7:48:16 PM : Getting extent values method started.
+10/22/2018 7:48:25 PM : Getting extent values method successfully finished.
+10/22/2018 7:48:30 PM : Getting values method started.
+10/22/2018 7:48:30 PM : Getting values method successfully finished.
+10/22/2018 7:48:30 PM : Getting values method started.
+10/22/2018 7:48:30 PM : Getting values method successfully finished.
+10/22/2018 7:48:30 PM : Getting values method started.
+10/22/2018 7:48:30 PM : Getting values method successfully finished.
+10/22/2018 7:48:34 PM : Getting extent values method started.
+10/22/2018 7:48:34 PM : Getting extent values method successfully finished.
+10/22/2018 7:51:26 PM : Getting extent values method started.
+10/22/2018 7:51:32 PM : Getting extent values method successfully finished.
+10/22/2018 7:53:00 PM : Getting extent values method started.
+10/22/2018 7:53:09 PM : Getting extent values method successfully finished.
+10/22/2018 7:53:19 PM : Getting values method started.
+10/22/2018 7:53:19 PM : Getting values method successfully finished.
+10/22/2018 7:53:19 PM : Getting values method started.
+10/22/2018 7:53:19 PM : Getting values method successfully finished.
+10/22/2018 7:53:19 PM : Getting values method started.
+10/22/2018 7:53:19 PM : Getting values method successfully finished.
+10/22/2018 7:53:32 PM : Getting values method started.
+10/22/2018 7:53:32 PM : Getting values method successfully finished.
+10/22/2018 7:53:32 PM : Getting values method started.
+10/22/2018 7:53:32 PM : Getting values method successfully finished.
+10/22/2018 7:53:32 PM : Getting values method started.
+10/22/2018 7:53:32 PM : Getting values method successfully finished.
+10/22/2018 7:53:35 PM : Getting values method started.
+10/22/2018 7:53:35 PM : Getting values method successfully finished.
+10/22/2018 7:53:35 PM : Getting values method started.
+10/22/2018 7:53:35 PM : Getting values method successfully finished.
+10/22/2018 7:53:35 PM : Getting values method started.
+10/22/2018 7:53:35 PM : Getting values method successfully finished.
+10/22/2018 7:53:39 PM : Getting values method started.
+10/22/2018 7:53:39 PM : Getting values method successfully finished.
+10/22/2018 7:53:39 PM : Getting values method started.
+10/22/2018 7:53:39 PM : Getting values method successfully finished.
+10/22/2018 7:53:39 PM : Getting values method started.
+10/22/2018 7:53:39 PM : Getting values method successfully finished.
+10/22/2018 7:53:43 PM : Getting extent values method started.
+10/22/2018 7:53:43 PM : Getting extent values method successfully finished.
+10/22/2018 7:53:49 PM : Getting values method started.
+10/22/2018 7:53:49 PM : Getting values method successfully finished.
+10/22/2018 7:53:49 PM : Getting values method started.
+10/22/2018 7:53:49 PM : Getting values method successfully finished.
+10/22/2018 7:53:49 PM : Getting values method started.
+10/22/2018 7:53:49 PM : Getting values method successfully finished.
+10/22/2018 7:53:49 PM : Getting values method started.
+10/22/2018 7:53:49 PM : Getting values method successfully finished.
+10/22/2018 7:53:49 PM : Getting values method started.
+10/22/2018 7:53:49 PM : Getting values method successfully finished.
+10/22/2018 7:53:49 PM : Getting values method started.
+10/22/2018 7:53:49 PM : Getting values method successfully finished.
+10/22/2018 7:53:51 PM : Getting extent values method started.
+10/22/2018 7:53:51 PM : Getting extent values method successfully finished.
+10/22/2018 7:53:51 PM : Getting values method started.
+10/22/2018 7:53:51 PM : Getting values method successfully finished.
+10/22/2018 7:53:51 PM : Getting values method started.
+10/22/2018 7:53:51 PM : Getting values method successfully finished.
+10/22/2018 7:53:51 PM : Getting values method started.
+10/22/2018 7:53:51 PM : Getting values method successfully finished.
+10/22/2018 7:54:14 PM : Getting extent values method started.
+10/22/2018 7:54:15 PM : Getting extent values method successfully finished.
+10/22/2018 7:54:23 PM : Getting values method started.
+10/22/2018 7:54:23 PM : Getting values method successfully finished.
+10/22/2018 7:54:23 PM : Getting values method started.
+10/22/2018 7:54:23 PM : Getting values method successfully finished.
+10/22/2018 7:54:23 PM : Getting values method started.
+10/22/2018 7:54:23 PM : Getting values method successfully finished.
+10/22/2018 7:54:23 PM : Getting values method started.
+10/22/2018 7:54:23 PM : Getting values method successfully finished.
+10/22/2018 7:54:23 PM : Getting values method started.
+10/22/2018 7:54:23 PM : Getting values method successfully finished.
+10/22/2018 7:54:23 PM : Getting values method started.
+10/22/2018 7:54:24 PM : Getting values method successfully finished.
+10/22/2018 7:54:24 PM : Getting values method started.
+10/22/2018 7:54:24 PM : Getting values method successfully finished.
+10/22/2018 7:54:24 PM : Getting values method started.
+10/22/2018 7:54:24 PM : Getting values method successfully finished.
+10/22/2018 7:54:24 PM : Getting values method started.
+10/22/2018 7:54:24 PM : Getting values method successfully finished.
+10/22/2018 7:54:29 PM : Getting extent values method started.
+10/22/2018 7:54:29 PM : Getting extent values method successfully finished.
+10/22/2018 7:54:29 PM : Getting values method started.
+10/22/2018 7:54:29 PM : Getting values method successfully finished.
+10/22/2018 7:54:29 PM : Getting values method started.
+10/22/2018 7:54:29 PM : Getting values method successfully finished.
+10/22/2018 7:54:29 PM : Getting values method started.
+10/22/2018 7:54:29 PM : Getting values method successfully finished.
+10/22/2018 7:54:49 PM : Getting extent values method started.
+10/22/2018 7:54:49 PM : Getting extent values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:54:52 PM : Getting values method started.
+10/22/2018 7:54:52 PM : Getting values method successfully finished.
+10/22/2018 7:55:00 PM : Getting extent values method started.
+10/22/2018 7:55:00 PM : Getting extent values method successfully finished.
+10/22/2018 7:55:01 PM : Getting extent values method started.
+10/22/2018 7:55:01 PM : Getting extent values method successfully finished.
+10/22/2018 7:55:01 PM : Getting values method started.
+10/22/2018 7:55:01 PM : Getting values method successfully finished.
+10/22/2018 7:55:01 PM : Getting values method started.
+10/22/2018 7:55:01 PM : Getting values method successfully finished.
+10/22/2018 7:55:01 PM : Getting values method started.
+10/22/2018 7:55:01 PM : Getting values method successfully finished.
+10/22/2018 7:55:11 PM : Getting extent values method started.
+10/22/2018 7:55:11 PM : Getting extent values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:55:21 PM : Getting values method started.
+10/22/2018 7:55:21 PM : Getting values method successfully finished.
+10/22/2018 7:56:29 PM : Getting extent values method started.
+10/22/2018 7:56:38 PM : Getting extent values method successfully finished.
+10/22/2018 7:56:43 PM : Getting values method started.
+10/22/2018 7:56:44 PM : Getting values method successfully finished.
+10/22/2018 7:56:44 PM : Getting values method started.
+10/22/2018 7:56:44 PM : Getting values method successfully finished.
+10/22/2018 7:56:44 PM : Getting values method started.
+10/22/2018 7:56:44 PM : Getting values method successfully finished.
+10/22/2018 7:56:49 PM : Getting extent values method started.
+10/22/2018 7:56:50 PM : Getting extent values method successfully finished.
+10/22/2018 7:56:53 PM : Getting values method started.
+10/22/2018 7:56:53 PM : Getting values method successfully finished.
+10/22/2018 7:56:53 PM : Getting values method started.
+10/22/2018 7:56:53 PM : Getting values method successfully finished.
+10/22/2018 7:56:53 PM : Getting values method started.
+10/22/2018 7:56:54 PM : Getting values method successfully finished.
+10/22/2018 7:56:54 PM : Getting values method started.
+10/22/2018 7:56:54 PM : Getting values method successfully finished.
+10/22/2018 7:56:54 PM : Getting values method started.
+10/22/2018 7:56:54 PM : Getting values method successfully finished.
+10/22/2018 7:56:54 PM : Getting values method started.
+10/22/2018 7:56:54 PM : Getting values method successfully finished.
+10/22/2018 8:00:43 PM : Getting extent values method started.
+10/22/2018 8:00:53 PM : Getting extent values method successfully finished.
+10/22/2018 8:00:59 PM : Getting values method started.
+10/22/2018 8:00:59 PM : Getting values method successfully finished.
+10/22/2018 8:00:59 PM : Getting values method started.
+10/22/2018 8:00:59 PM : Getting values method successfully finished.
+10/22/2018 8:00:59 PM : Getting values method started.
+10/22/2018 8:00:59 PM : Getting values method successfully finished.
+10/22/2018 8:01:06 PM : Getting extent values method started.
+10/22/2018 8:01:06 PM : Getting extent values method successfully finished.
+10/22/2018 8:01:11 PM : Getting values method started.
+10/22/2018 8:01:11 PM : Getting values method successfully finished.
+10/22/2018 8:01:11 PM : Getting values method started.
+10/22/2018 8:01:11 PM : Getting values method successfully finished.
+10/22/2018 8:01:11 PM : Getting values method started.
+10/22/2018 8:01:11 PM : Getting values method successfully finished.
+10/22/2018 8:01:11 PM : Getting values method started.
+10/22/2018 8:01:11 PM : Getting values method successfully finished.
+10/22/2018 8:01:11 PM : Getting values method started.
+10/22/2018 8:01:11 PM : Getting values method successfully finished.
+10/22/2018 8:01:11 PM : Getting values method started.
+10/22/2018 8:01:11 PM : Getting values method successfully finished.
+10/22/2018 8:01:15 PM : Getting values method started.
+10/22/2018 8:01:15 PM : Getting values method successfully finished.
+10/22/2018 8:01:16 PM : Getting values method started.
+10/22/2018 8:01:16 PM : Getting values method successfully finished.
+10/22/2018 8:01:16 PM : Getting values method started.
+10/22/2018 8:01:16 PM : Getting values method successfully finished.
+10/22/2018 8:01:16 PM : Getting values method started.
+10/22/2018 8:01:16 PM : Getting values method successfully finished.
+10/22/2018 8:01:16 PM : Getting values method started.
+10/22/2018 8:01:16 PM : Getting values method successfully finished.
+10/22/2018 8:01:16 PM : Getting values method started.
+10/22/2018 8:01:16 PM : Getting values method successfully finished.
+10/22/2018 8:01:19 PM : Getting extent values method started.
+10/22/2018 8:01:19 PM : Getting extent values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:01:23 PM : Getting values method started.
+10/22/2018 8:01:23 PM : Getting values method successfully finished.
+10/22/2018 8:04:37 PM : Getting extent values method started.
+10/22/2018 8:04:45 PM : Getting extent values method successfully finished.
+10/22/2018 8:04:51 PM : Getting values method started.
+10/22/2018 8:04:51 PM : Getting values method successfully finished.
+10/22/2018 8:04:51 PM : Getting values method started.
+10/22/2018 8:04:51 PM : Getting values method successfully finished.
+10/22/2018 8:04:51 PM : Getting values method started.
+10/22/2018 8:04:51 PM : Getting values method successfully finished.
+10/22/2018 8:08:32 PM : Getting extent values method started.
+10/22/2018 8:08:42 PM : Getting extent values method successfully finished.
+10/22/2018 8:08:54 PM : Getting values method started.
+10/22/2018 8:08:54 PM : Getting values method successfully finished.
+10/22/2018 8:08:54 PM : Getting values method started.
+10/22/2018 8:08:54 PM : Getting values method successfully finished.
+10/22/2018 8:08:54 PM : Getting values method started.
+10/22/2018 8:08:54 PM : Getting values method successfully finished.
+10/22/2018 8:08:58 PM : Getting extent values method started.
+10/22/2018 8:08:58 PM : Getting extent values method successfully finished.
+10/22/2018 8:09:01 PM : Getting values method started.
+10/22/2018 8:09:01 PM : Getting values method successfully finished.
+10/22/2018 8:09:01 PM : Getting values method started.
+10/22/2018 8:09:01 PM : Getting values method successfully finished.
+10/22/2018 8:09:01 PM : Getting values method started.
+10/22/2018 8:09:01 PM : Getting values method successfully finished.
+10/22/2018 8:09:01 PM : Getting values method started.
+10/22/2018 8:09:01 PM : Getting values method successfully finished.
+10/22/2018 8:09:01 PM : Getting values method started.
+10/22/2018 8:09:02 PM : Getting values method successfully finished.
+10/22/2018 8:09:02 PM : Getting values method started.
+10/22/2018 8:09:02 PM : Getting values method successfully finished.
+10/22/2018 8:10:29 PM : Getting extent values method started.
+10/22/2018 8:10:38 PM : Getting extent values method successfully finished.
+10/22/2018 8:10:41 PM : Getting values method started.
+10/22/2018 8:10:42 PM : Getting values method successfully finished.
+10/22/2018 8:10:42 PM : Getting values method started.
+10/22/2018 8:10:42 PM : Getting values method successfully finished.
+10/22/2018 8:10:42 PM : Getting values method started.
+10/22/2018 8:10:42 PM : Getting values method successfully finished.
+10/22/2018 8:10:45 PM : Getting extent values method started.
+10/22/2018 8:10:45 PM : Getting extent values method successfully finished.
+10/22/2018 8:10:49 PM : Getting values method started.
+10/22/2018 8:10:49 PM : Getting values method successfully finished.
+10/22/2018 8:10:49 PM : Getting values method started.
+10/22/2018 8:10:49 PM : Getting values method successfully finished.
+10/22/2018 8:10:49 PM : Getting values method started.
+10/22/2018 8:10:49 PM : Getting values method successfully finished.
+10/22/2018 8:10:56 PM : Getting extent values method started.
+10/22/2018 8:10:57 PM : Getting extent values method successfully finished.
+10/22/2018 8:11:01 PM : Getting values method started.
+10/22/2018 8:11:01 PM : Getting values method successfully finished.
+10/22/2018 8:11:01 PM : Getting values method started.
+10/22/2018 8:11:01 PM : Getting values method successfully finished.
+10/22/2018 8:11:01 PM : Getting values method started.
+10/22/2018 8:11:01 PM : Getting values method successfully finished.
+10/22/2018 8:11:04 PM : Getting extent values method started.
+10/22/2018 8:11:04 PM : Getting extent values method successfully finished.
+10/22/2018 8:11:10 PM : Getting extent values method started.
+10/22/2018 8:11:10 PM : Getting extent values method successfully finished.
+10/22/2018 8:11:24 PM : Getting values method started.
+10/22/2018 8:11:24 PM : Getting values method successfully finished.
+10/22/2018 8:11:24 PM : Getting values method started.
+10/22/2018 8:11:25 PM : Getting values method successfully finished.
+10/22/2018 8:11:25 PM : Getting values method started.
+10/22/2018 8:11:25 PM : Getting values method successfully finished.
+10/22/2018 8:11:25 PM : Getting values method started.
+10/22/2018 8:11:25 PM : Getting values method successfully finished.
+10/22/2018 8:11:25 PM : Getting values method started.
+10/22/2018 8:11:25 PM : Getting values method successfully finished.
+10/22/2018 8:11:25 PM : Getting values method started.
+10/22/2018 8:11:25 PM : Getting values method successfully finished.
+10/22/2018 8:11:39 PM : Getting extent values method started.
+10/22/2018 8:11:39 PM : Getting extent values method successfully finished.
+10/22/2018 8:11:43 PM : Getting values method started.
+10/22/2018 8:11:43 PM : Getting values method successfully finished.
+10/22/2018 8:11:43 PM : Getting values method started.
+10/22/2018 8:11:43 PM : Getting values method successfully finished.
+10/22/2018 8:11:43 PM : Getting values method started.
+10/22/2018 8:11:43 PM : Getting values method successfully finished.
+10/22/2018 8:16:00 PM : Getting extent values method started.
+10/22/2018 8:16:10 PM : Getting extent values method successfully finished.
+10/22/2018 8:16:13 PM : Getting values method started.
+10/22/2018 8:16:13 PM : Getting values method successfully finished.
+10/22/2018 8:16:13 PM : Getting values method started.
+10/22/2018 8:16:13 PM : Getting values method successfully finished.
+10/22/2018 8:16:13 PM : Getting values method started.
+10/22/2018 8:16:13 PM : Getting values method successfully finished.
+10/22/2018 8:16:16 PM : Getting extent values method started.
+10/22/2018 8:16:17 PM : Getting extent values method successfully finished.
+10/22/2018 8:16:20 PM : Getting values method started.
+10/22/2018 8:16:20 PM : Getting values method successfully finished.
+10/22/2018 8:16:20 PM : Getting values method started.
+10/22/2018 8:16:20 PM : Getting values method successfully finished.
+10/22/2018 8:16:20 PM : Getting values method started.
+10/22/2018 8:16:20 PM : Getting values method successfully finished.
+10/22/2018 8:16:35 PM : Getting extent values method started.
+10/22/2018 8:16:35 PM : Getting extent values method successfully finished.
+10/22/2018 8:16:42 PM : Getting values method started.
+10/22/2018 8:16:42 PM : Getting values method successfully finished.
+10/22/2018 8:16:42 PM : Getting values method started.
+10/22/2018 8:16:42 PM : Getting values method successfully finished.
+10/22/2018 8:16:42 PM : Getting values method started.
+10/22/2018 8:16:42 PM : Getting values method successfully finished.
+10/22/2018 8:16:58 PM : Getting extent values method started.
+10/22/2018 8:16:58 PM : Getting extent values method successfully finished.
+10/22/2018 8:17:02 PM : Getting values method started.
+10/22/2018 8:17:02 PM : Getting values method successfully finished.
+10/22/2018 8:17:02 PM : Getting values method started.
+10/22/2018 8:17:02 PM : Getting values method successfully finished.
+10/22/2018 8:17:02 PM : Getting values method started.
+10/22/2018 8:17:02 PM : Getting values method successfully finished.
+10/22/2018 8:17:14 PM : Getting extent values method started.
+10/22/2018 8:17:15 PM : Getting extent values method successfully finished.
+10/22/2018 8:17:17 PM : Getting values method started.
+10/22/2018 8:17:17 PM : Getting values method successfully finished.
+10/22/2018 8:17:17 PM : Getting values method started.
+10/22/2018 8:17:17 PM : Getting values method successfully finished.
+10/22/2018 8:17:17 PM : Getting values method started.
+10/22/2018 8:17:17 PM : Getting values method successfully finished.
+10/22/2018 8:17:25 PM : Getting extent values method started.
+10/22/2018 8:17:26 PM : Getting extent values method successfully finished.
+10/22/2018 8:17:29 PM : Getting values method started.
+10/22/2018 8:17:30 PM : Getting values method successfully finished.
+10/22/2018 8:17:30 PM : Getting values method started.
+10/22/2018 8:17:30 PM : Getting values method successfully finished.
+10/22/2018 8:17:30 PM : Getting values method started.
+10/22/2018 8:17:30 PM : Getting values method successfully finished.
+10/22/2018 8:17:33 PM : Getting extent values method started.
+10/22/2018 8:17:33 PM : Getting extent values method successfully finished.
+10/22/2018 8:17:36 PM : Getting values method started.
+10/22/2018 8:17:36 PM : Getting values method successfully finished.
+10/22/2018 8:17:36 PM : Getting values method started.
+10/22/2018 8:17:36 PM : Getting values method successfully finished.
+10/22/2018 8:17:36 PM : Getting values method started.
+10/22/2018 8:17:36 PM : Getting values method successfully finished.
+10/22/2018 8:17:43 PM : Getting extent values method started.
+10/22/2018 8:17:43 PM : Getting extent values method successfully finished.
+10/22/2018 8:17:51 PM : Getting values method started.
+10/22/2018 8:17:51 PM : Getting values method successfully finished.
+10/22/2018 8:17:51 PM : Getting values method started.
+10/22/2018 8:17:51 PM : Getting values method successfully finished.
+10/22/2018 8:17:51 PM : Getting values method started.
+10/22/2018 8:17:51 PM : Getting values method successfully finished.
+10/22/2018 8:17:57 PM : Getting extent values method started.
+10/22/2018 8:17:57 PM : Getting extent values method successfully finished.
+10/22/2018 8:18:00 PM : Getting values method started.
+10/22/2018 8:18:00 PM : Getting values method successfully finished.
+10/22/2018 8:18:00 PM : Getting values method started.
+10/22/2018 8:18:00 PM : Getting values method successfully finished.
+10/22/2018 8:18:00 PM : Getting values method started.
+10/22/2018 8:18:00 PM : Getting values method successfully finished.
+10/22/2018 8:41:37 PM : Getting extent values method started.
+10/22/2018 8:41:39 PM : Getting extent values method successfully finished.
+10/22/2018 8:42:08 PM : Getting extent values method started.
+10/22/2018 8:42:08 PM : Getting extent values method successfully finished.
+10/22/2018 8:42:19 PM : Getting values method started.
+10/22/2018 8:42:19 PM : Getting values method successfully finished.
+10/22/2018 8:42:19 PM : Getting values method started.
+10/22/2018 8:42:19 PM : Getting values method successfully finished.
+10/22/2018 8:42:19 PM : Getting values method started.
+10/22/2018 8:42:19 PM : Getting values method successfully finished.
+10/22/2018 8:42:19 PM : Getting values method started.
+10/22/2018 8:42:19 PM : Getting values method successfully finished.
+10/22/2018 8:42:19 PM : Getting values method started.
+10/22/2018 8:42:19 PM : Getting values method successfully finished.
+10/22/2018 8:42:19 PM : Getting values method started.
+10/22/2018 8:42:19 PM : Getting values method successfully finished.
+10/22/2018 8:44:18 PM : Getting extent values method started.
+10/22/2018 8:44:18 PM : Getting extent values method successfully finished.
+10/22/2018 8:44:24 PM : Getting values method started.
+10/22/2018 8:44:24 PM : Getting values method successfully finished.
+10/22/2018 8:44:24 PM : Getting values method started.
+10/22/2018 8:44:24 PM : Getting values method successfully finished.
+10/22/2018 8:44:24 PM : Getting values method started.
+10/22/2018 8:44:24 PM : Getting values method successfully finished.
+10/22/2018 8:44:32 PM : Getting extent values method started.
+10/22/2018 8:44:32 PM : Getting extent values method successfully finished.
+10/22/2018 8:44:37 PM : Getting values method started.
+10/22/2018 8:44:37 PM : Getting values method successfully finished.
+10/22/2018 8:44:37 PM : Getting values method started.
+10/22/2018 8:44:37 PM : Getting values method successfully finished.
+10/22/2018 8:44:37 PM : Getting values method started.
+10/22/2018 8:44:37 PM : Getting values method successfully finished.
+10/22/2018 8:44:40 PM : Getting extent values method started.
+10/22/2018 8:44:41 PM : Getting extent values method successfully finished.
+10/22/2018 8:44:47 PM : Getting values method started.
+10/22/2018 8:44:47 PM : Getting values method successfully finished.
+10/22/2018 8:44:47 PM : Getting values method started.
+10/22/2018 8:44:47 PM : Getting values method successfully finished.
+10/22/2018 8:44:47 PM : Getting values method started.
+10/22/2018 8:44:47 PM : Getting values method successfully finished.
+10/22/2018 8:44:54 PM : Getting extent values method started.
+10/22/2018 8:44:54 PM : Getting extent values method successfully finished.
+10/22/2018 8:44:57 PM : Getting values method started.
+10/22/2018 8:44:57 PM : Getting values method successfully finished.
+10/22/2018 8:44:57 PM : Getting values method started.
+10/22/2018 8:44:57 PM : Getting values method successfully finished.
+10/22/2018 8:44:57 PM : Getting values method started.
+10/22/2018 8:44:57 PM : Getting values method successfully finished.
+10/22/2018 8:45:03 PM : Getting extent values method started.
+10/22/2018 8:45:03 PM : Getting extent values method successfully finished.
+10/22/2018 8:45:07 PM : Getting values method started.
+10/22/2018 8:45:07 PM : Getting values method successfully finished.
+10/22/2018 8:45:07 PM : Getting values method started.
+10/22/2018 8:45:07 PM : Getting values method successfully finished.
+10/22/2018 8:45:07 PM : Getting values method started.
+10/22/2018 8:45:07 PM : Getting values method successfully finished.
+10/22/2018 8:45:27 PM : Getting extent values method started.
+10/22/2018 8:45:27 PM : Getting extent values method successfully finished.
+10/22/2018 8:45:30 PM : Getting values method started.
+10/22/2018 8:45:30 PM : Getting values method successfully finished.
+10/22/2018 8:45:30 PM : Getting values method started.
+10/22/2018 8:45:30 PM : Getting values method successfully finished.
+10/22/2018 8:45:30 PM : Getting values method started.
+10/22/2018 8:45:30 PM : Getting values method successfully finished.
+10/22/2018 8:45:33 PM : Getting extent values method started.
+10/22/2018 8:45:34 PM : Getting extent values method successfully finished.
+10/22/2018 8:45:37 PM : Getting values method started.
+10/22/2018 8:45:37 PM : Getting values method successfully finished.
+10/22/2018 8:45:37 PM : Getting values method started.
+10/22/2018 8:45:37 PM : Getting values method successfully finished.
+10/22/2018 8:45:37 PM : Getting values method started.
+10/22/2018 8:45:37 PM : Getting values method successfully finished.
+10/22/2018 8:45:41 PM : Getting extent values method started.
+10/22/2018 8:45:41 PM : Getting extent values method successfully finished.
+10/22/2018 8:45:45 PM : Getting values method started.
+10/22/2018 8:45:45 PM : Getting values method successfully finished.
+10/22/2018 8:45:45 PM : Getting values method started.
+10/22/2018 8:45:45 PM : Getting values method successfully finished.
+10/22/2018 8:45:45 PM : Getting values method started.
+10/22/2018 8:45:45 PM : Getting values method successfully finished.
+10/22/2018 8:45:48 PM : Getting extent values method started.
+10/22/2018 8:45:48 PM : Getting extent values method successfully finished.
+10/22/2018 8:45:53 PM : Getting values method started.
+10/22/2018 8:45:53 PM : Getting values method successfully finished.
+10/22/2018 8:45:53 PM : Getting values method started.
+10/22/2018 8:45:53 PM : Getting values method successfully finished.
+10/22/2018 8:45:53 PM : Getting values method started.
+10/22/2018 8:45:53 PM : Getting values method successfully finished.
+10/22/2018 8:46:40 PM : Getting extent values method started.
+10/22/2018 8:46:40 PM : Getting extent values method successfully finished.
+10/22/2018 8:46:45 PM : Getting values method started.
+10/22/2018 8:46:45 PM : Getting values method successfully finished.
+10/22/2018 8:46:45 PM : Getting values method started.
+10/22/2018 8:46:45 PM : Getting values method successfully finished.
+10/22/2018 8:46:45 PM : Getting values method started.
+10/22/2018 8:46:45 PM : Getting values method successfully finished.
+10/22/2018 8:48:24 PM : Getting extent values method started.
+10/22/2018 8:48:24 PM : Getting extent values method successfully finished.
+10/22/2018 8:48:27 PM : Getting values method started.
+10/22/2018 8:48:27 PM : Getting values method successfully finished.
+10/22/2018 8:48:27 PM : Getting values method started.
+10/22/2018 8:48:27 PM : Getting values method successfully finished.
+10/22/2018 8:48:27 PM : Getting values method started.
+10/22/2018 8:48:27 PM : Getting values method successfully finished.
+10/22/2018 8:48:32 PM : Getting extent values method started.
+10/22/2018 8:48:32 PM : Getting extent values method successfully finished.
+10/22/2018 8:48:41 PM : Getting values method started.
+10/22/2018 8:48:41 PM : Getting values method successfully finished.
+10/22/2018 8:48:41 PM : Getting values method started.
+10/22/2018 8:48:41 PM : Getting values method successfully finished.
+10/22/2018 8:48:41 PM : Getting values method started.
+10/22/2018 8:48:41 PM : Getting values method successfully finished.
+10/22/2018 8:48:43 PM : Getting extent values method started.
+10/22/2018 8:48:43 PM : Getting extent values method successfully finished.
+10/22/2018 8:48:48 PM : Getting values method started.
+10/22/2018 8:48:48 PM : Getting values method successfully finished.
+10/22/2018 8:48:48 PM : Getting values method started.
+10/22/2018 8:48:48 PM : Getting values method successfully finished.
+10/22/2018 8:48:48 PM : Getting values method started.
+10/22/2018 8:48:48 PM : Getting values method successfully finished.
+10/22/2018 8:49:16 PM : Getting extent values method started.
+10/22/2018 8:49:16 PM : Getting extent values method successfully finished.
+10/22/2018 8:49:19 PM : Getting values method started.
+10/22/2018 8:49:19 PM : Getting values method successfully finished.
+10/22/2018 8:49:19 PM : Getting values method started.
+10/22/2018 8:49:19 PM : Getting values method successfully finished.
+10/22/2018 8:49:19 PM : Getting values method started.
+10/22/2018 8:49:19 PM : Getting values method successfully finished.
+10/22/2018 8:49:22 PM : Getting extent values method started.
+10/22/2018 8:49:22 PM : Getting extent values method successfully finished.
+10/22/2018 8:49:26 PM : Getting values method started.
+10/22/2018 8:49:26 PM : Getting values method successfully finished.
+10/22/2018 8:49:26 PM : Getting values method started.
+10/22/2018 8:49:26 PM : Getting values method successfully finished.
+10/22/2018 8:49:26 PM : Getting values method started.
+10/22/2018 8:49:26 PM : Getting values method successfully finished.
+10/22/2018 8:49:29 PM : Getting extent values method started.
+10/22/2018 8:49:29 PM : Getting extent values method successfully finished.
+10/22/2018 8:49:34 PM : Getting values method started.
+10/22/2018 8:49:34 PM : Getting values method successfully finished.
+10/22/2018 8:49:34 PM : Getting values method started.
+10/22/2018 8:49:34 PM : Getting values method successfully finished.
+10/22/2018 8:49:34 PM : Getting values method started.
+10/22/2018 8:49:34 PM : Getting values method successfully finished.
+10/22/2018 8:49:37 PM : Getting extent values method started.
+10/22/2018 8:49:37 PM : Getting extent values method successfully finished.
+10/22/2018 8:49:42 PM : Getting values method started.
+10/22/2018 8:49:42 PM : Getting values method successfully finished.
+10/22/2018 8:49:42 PM : Getting values method started.
+10/22/2018 8:49:42 PM : Getting values method successfully finished.
+10/22/2018 8:49:42 PM : Getting values method started.
+10/22/2018 8:49:42 PM : Getting values method successfully finished.
+10/22/2018 8:49:50 PM : Getting extent values method started.
+10/22/2018 8:49:50 PM : Getting extent values method successfully finished.
+10/22/2018 8:49:55 PM : Getting values method started.
+10/22/2018 8:49:55 PM : Getting values method successfully finished.
+10/22/2018 8:49:55 PM : Getting values method started.
+10/22/2018 8:49:55 PM : Getting values method successfully finished.
+10/22/2018 8:49:55 PM : Getting values method started.
+10/22/2018 8:49:55 PM : Getting values method successfully finished.
+10/22/2018 8:49:58 PM : Getting extent values method started.
+10/22/2018 8:49:58 PM : Getting extent values method successfully finished.
+10/22/2018 8:50:03 PM : Getting values method started.
+10/22/2018 8:50:03 PM : Getting values method successfully finished.
+10/22/2018 8:50:03 PM : Getting values method started.
+10/22/2018 8:50:03 PM : Getting values method successfully finished.
+10/22/2018 8:50:03 PM : Getting values method started.
+10/22/2018 8:50:03 PM : Getting values method successfully finished.
+10/22/2018 8:50:06 PM : Getting extent values method started.
+10/22/2018 8:50:06 PM : Getting extent values method successfully finished.
+10/22/2018 8:50:10 PM : Getting values method started.
+10/22/2018 8:50:10 PM : Getting values method successfully finished.
+10/22/2018 8:50:10 PM : Getting values method started.
+10/22/2018 8:50:10 PM : Getting values method successfully finished.
+10/22/2018 8:50:10 PM : Getting values method started.
+10/22/2018 8:50:10 PM : Getting values method successfully finished.
+10/22/2018 9:03:05 PM : Getting extent values method started.
+10/22/2018 9:03:08 PM : Getting extent values method successfully finished.
+10/22/2018 9:03:14 PM : Getting values method started.
+10/22/2018 9:03:14 PM : Getting values method successfully finished.
+10/22/2018 9:03:35 PM : Getting extent values method started.
+10/22/2018 9:03:35 PM : Getting extent values method successfully finished.
+10/22/2018 9:03:38 PM : Getting values method started.
+10/22/2018 9:03:38 PM : Getting values method successfully finished.
+10/22/2018 10:38:48 PM : Getting extent values method started.
+10/22/2018 10:38:51 PM : Getting extent values method successfully finished.
+10/22/2018 10:38:59 PM : Getting values method started.
+10/22/2018 10:38:59 PM : Getting values method successfully finished.
+10/22/2018 10:39:19 PM : Getting extent values method started.
+10/22/2018 10:39:19 PM : Getting extent values method successfully finished.
+10/22/2018 10:39:20 PM : Getting extent values method started.
+10/22/2018 10:39:20 PM : Getting extent values method successfully finished.
+10/22/2018 10:39:20 PM : Getting values method started.
+10/22/2018 10:39:20 PM : Getting values method successfully finished.
+10/22/2018 10:39:20 PM : Getting values method started.
+10/22/2018 10:39:20 PM : Getting values method successfully finished.
+10/22/2018 10:39:20 PM : Getting values method started.
+10/22/2018 10:39:20 PM : Getting values method successfully finished.
+10/22/2018 10:39:32 PM : Getting extent values method started.
+10/22/2018 10:39:32 PM : Getting extent values method successfully finished.
+10/22/2018 10:39:35 PM : Getting values method started.
+10/22/2018 10:39:35 PM : Getting values method successfully finished.
+10/22/2018 10:39:35 PM : Getting values method started.
+10/22/2018 10:39:35 PM : Getting values method successfully finished.
+10/22/2018 10:39:35 PM : Getting values method started.
+10/22/2018 10:39:35 PM : Getting values method successfully finished.
+10/22/2018 10:39:35 PM : Getting values method started.
+10/22/2018 10:39:35 PM : Getting values method successfully finished.
+10/22/2018 10:39:35 PM : Getting values method started.
+10/22/2018 10:39:35 PM : Getting values method successfully finished.
+10/22/2018 10:39:35 PM : Getting values method started.
+10/22/2018 10:39:35 PM : Getting values method successfully finished.
+10/22/2018 10:43:20 PM : Getting extent values method started.
+10/22/2018 10:43:20 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:20 PM : Getting values method started.
+10/22/2018 10:43:20 PM : Getting values method successfully finished.
+10/22/2018 10:43:20 PM : Getting values method started.
+10/22/2018 10:43:20 PM : Getting values method successfully finished.
+10/22/2018 10:43:20 PM : Getting values method started.
+10/22/2018 10:43:20 PM : Getting values method successfully finished.
+10/22/2018 10:43:26 PM : Getting extent values method started.
+10/22/2018 10:43:26 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:29 PM : Getting values method started.
+10/22/2018 10:43:29 PM : Getting values method successfully finished.
+10/22/2018 10:43:29 PM : Getting values method started.
+10/22/2018 10:43:29 PM : Getting values method successfully finished.
+10/22/2018 10:43:29 PM : Getting values method started.
+10/22/2018 10:43:29 PM : Getting values method successfully finished.
+10/22/2018 10:43:32 PM : Getting extent values method started.
+10/22/2018 10:43:32 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:35 PM : Getting values method started.
+10/22/2018 10:43:36 PM : Getting values method successfully finished.
+10/22/2018 10:43:36 PM : Getting values method started.
+10/22/2018 10:43:36 PM : Getting values method successfully finished.
+10/22/2018 10:43:36 PM : Getting values method started.
+10/22/2018 10:43:36 PM : Getting values method successfully finished.
+10/22/2018 10:43:38 PM : Getting extent values method started.
+10/22/2018 10:43:38 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:41 PM : Getting values method started.
+10/22/2018 10:43:41 PM : Getting values method successfully finished.
+10/22/2018 10:43:41 PM : Getting values method started.
+10/22/2018 10:43:41 PM : Getting values method successfully finished.
+10/22/2018 10:43:41 PM : Getting values method started.
+10/22/2018 10:43:41 PM : Getting values method successfully finished.
+10/22/2018 10:43:44 PM : Getting extent values method started.
+10/22/2018 10:43:44 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:44 PM : Getting extent values method started.
+10/22/2018 10:43:44 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:44 PM : Getting values method started.
+10/22/2018 10:43:44 PM : Getting values method successfully finished.
+10/22/2018 10:43:44 PM : Getting values method started.
+10/22/2018 10:43:44 PM : Getting values method successfully finished.
+10/22/2018 10:43:44 PM : Getting values method started.
+10/22/2018 10:43:44 PM : Getting values method successfully finished.
+10/22/2018 10:43:47 PM : Getting extent values method started.
+10/22/2018 10:43:47 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:50 PM : Getting values method started.
+10/22/2018 10:43:50 PM : Getting values method successfully finished.
+10/22/2018 10:43:50 PM : Getting values method started.
+10/22/2018 10:43:50 PM : Getting values method successfully finished.
+10/22/2018 10:43:50 PM : Getting values method started.
+10/22/2018 10:43:50 PM : Getting values method successfully finished.
+10/22/2018 10:43:50 PM : Getting values method started.
+10/22/2018 10:43:50 PM : Getting values method successfully finished.
+10/22/2018 10:43:50 PM : Getting values method started.
+10/22/2018 10:43:50 PM : Getting values method successfully finished.
+10/22/2018 10:43:50 PM : Getting values method started.
+10/22/2018 10:43:50 PM : Getting values method successfully finished.
+10/22/2018 10:43:55 PM : Getting extent values method started.
+10/22/2018 10:43:55 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:56 PM : Getting extent values method started.
+10/22/2018 10:43:56 PM : Getting extent values method successfully finished.
+10/22/2018 10:43:56 PM : Getting values method started.
+10/22/2018 10:43:56 PM : Getting values method successfully finished.
+10/22/2018 10:43:56 PM : Getting values method started.
+10/22/2018 10:43:56 PM : Getting values method successfully finished.
+10/22/2018 10:43:56 PM : Getting values method started.
+10/22/2018 10:43:56 PM : Getting values method successfully finished.
+10/22/2018 10:43:59 PM : Getting extent values method started.
+10/22/2018 10:43:59 PM : Getting extent values method successfully finished.
+10/22/2018 10:44:02 PM : Getting values method started.
+10/22/2018 10:44:02 PM : Getting values method successfully finished.
+10/22/2018 10:44:02 PM : Getting values method started.
+10/22/2018 10:44:02 PM : Getting values method successfully finished.
+10/22/2018 10:44:02 PM : Getting values method started.
+10/22/2018 10:44:02 PM : Getting values method successfully finished.
+10/22/2018 10:44:02 PM : Getting values method started.
+10/22/2018 10:44:02 PM : Getting values method successfully finished.
+10/22/2018 10:44:02 PM : Getting values method started.
+10/22/2018 10:44:02 PM : Getting values method successfully finished.
+10/22/2018 10:44:02 PM : Getting values method started.
+10/22/2018 10:44:02 PM : Getting values method successfully finished.
+10/22/2018 10:44:09 PM : Getting extent values method started.
+10/22/2018 10:44:09 PM : Getting extent values method successfully finished.
+10/22/2018 10:44:12 PM : Getting values method started.
+10/22/2018 10:44:12 PM : Getting values method successfully finished.
+10/22/2018 10:44:12 PM : Getting values method started.
+10/22/2018 10:44:12 PM : Getting values method successfully finished.
+10/22/2018 10:44:12 PM : Getting values method started.
+10/22/2018 10:44:12 PM : Getting values method successfully finished.
+10/22/2018 10:44:15 PM : Getting extent values method started.
+10/22/2018 10:44:16 PM : Getting extent values method successfully finished.
+10/22/2018 10:44:19 PM : Getting values method started.
+10/22/2018 10:44:19 PM : Getting values method successfully finished.
+10/22/2018 10:44:19 PM : Getting values method started.
+10/22/2018 10:44:19 PM : Getting values method successfully finished.
+10/22/2018 10:44:19 PM : Getting values method started.
+10/22/2018 10:44:19 PM : Getting values method successfully finished.
+10/22/2018 10:51:20 PM : Getting extent values method started.
+10/22/2018 10:51:20 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:20 PM : Getting extent values method started.
+10/22/2018 10:51:20 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:20 PM : Getting values method started.
+10/22/2018 10:51:20 PM : Getting values method successfully finished.
+10/22/2018 10:51:20 PM : Getting values method started.
+10/22/2018 10:51:21 PM : Getting values method successfully finished.
+10/22/2018 10:51:21 PM : Getting values method started.
+10/22/2018 10:51:21 PM : Getting values method successfully finished.
+10/22/2018 10:51:23 PM : Getting extent values method started.
+10/22/2018 10:51:23 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:25 PM : Getting values method started.
+10/22/2018 10:51:25 PM : Getting values method successfully finished.
+10/22/2018 10:51:25 PM : Getting values method started.
+10/22/2018 10:51:25 PM : Getting values method successfully finished.
+10/22/2018 10:51:25 PM : Getting values method started.
+10/22/2018 10:51:25 PM : Getting values method successfully finished.
+10/22/2018 10:51:26 PM : Getting values method started.
+10/22/2018 10:51:26 PM : Getting values method successfully finished.
+10/22/2018 10:51:26 PM : Getting values method started.
+10/22/2018 10:51:26 PM : Getting values method successfully finished.
+10/22/2018 10:51:26 PM : Getting values method started.
+10/22/2018 10:51:26 PM : Getting values method successfully finished.
+10/22/2018 10:51:30 PM : Getting extent values method started.
+10/22/2018 10:51:30 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:34 PM : Getting values method started.
+10/22/2018 10:51:34 PM : Getting values method successfully finished.
+10/22/2018 10:51:34 PM : Getting values method started.
+10/22/2018 10:51:34 PM : Getting values method successfully finished.
+10/22/2018 10:51:34 PM : Getting values method started.
+10/22/2018 10:51:34 PM : Getting values method successfully finished.
+10/22/2018 10:51:36 PM : Getting extent values method started.
+10/22/2018 10:51:36 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:37 PM : Getting extent values method started.
+10/22/2018 10:51:37 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:37 PM : Getting values method started.
+10/22/2018 10:51:37 PM : Getting values method successfully finished.
+10/22/2018 10:51:37 PM : Getting values method started.
+10/22/2018 10:51:37 PM : Getting values method successfully finished.
+10/22/2018 10:51:37 PM : Getting values method started.
+10/22/2018 10:51:37 PM : Getting values method successfully finished.
+10/22/2018 10:51:42 PM : Getting extent values method started.
+10/22/2018 10:51:42 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:45 PM : Getting values method started.
+10/22/2018 10:51:45 PM : Getting values method successfully finished.
+10/22/2018 10:51:45 PM : Getting values method started.
+10/22/2018 10:51:45 PM : Getting values method successfully finished.
+10/22/2018 10:51:45 PM : Getting values method started.
+10/22/2018 10:51:45 PM : Getting values method successfully finished.
+10/22/2018 10:51:45 PM : Getting values method started.
+10/22/2018 10:51:45 PM : Getting values method successfully finished.
+10/22/2018 10:51:45 PM : Getting values method started.
+10/22/2018 10:51:45 PM : Getting values method successfully finished.
+10/22/2018 10:51:45 PM : Getting values method started.
+10/22/2018 10:51:45 PM : Getting values method successfully finished.
+10/22/2018 10:51:49 PM : Getting extent values method started.
+10/22/2018 10:51:49 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:51 PM : Getting values method started.
+10/22/2018 10:51:51 PM : Getting values method successfully finished.
+10/22/2018 10:51:51 PM : Getting values method started.
+10/22/2018 10:51:52 PM : Getting values method successfully finished.
+10/22/2018 10:51:52 PM : Getting values method started.
+10/22/2018 10:51:52 PM : Getting values method successfully finished.
+10/22/2018 10:51:56 PM : Getting extent values method started.
+10/22/2018 10:51:56 PM : Getting extent values method successfully finished.
+10/22/2018 10:51:59 PM : Getting values method started.
+10/22/2018 10:51:59 PM : Getting values method successfully finished.
+10/22/2018 10:51:59 PM : Getting values method started.
+10/22/2018 10:51:59 PM : Getting values method successfully finished.
+10/22/2018 10:51:59 PM : Getting values method started.
+10/22/2018 10:51:59 PM : Getting values method successfully finished.
+10/22/2018 10:52:01 PM : Getting extent values method started.
+10/22/2018 10:52:01 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:01 PM : Getting values method started.
+10/22/2018 10:52:01 PM : Getting values method successfully finished.
+10/22/2018 10:52:01 PM : Getting values method started.
+10/22/2018 10:52:01 PM : Getting values method successfully finished.
+10/22/2018 10:52:01 PM : Getting values method started.
+10/22/2018 10:52:01 PM : Getting values method successfully finished.
+10/22/2018 10:52:07 PM : Getting extent values method started.
+10/22/2018 10:52:08 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:11 PM : Getting values method started.
+10/22/2018 10:52:11 PM : Getting values method successfully finished.
+10/22/2018 10:52:11 PM : Getting values method started.
+10/22/2018 10:52:11 PM : Getting values method successfully finished.
+10/22/2018 10:52:11 PM : Getting values method started.
+10/22/2018 10:52:11 PM : Getting values method successfully finished.
+10/22/2018 10:52:14 PM : Getting extent values method started.
+10/22/2018 10:52:14 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:15 PM : Getting extent values method started.
+10/22/2018 10:52:15 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:15 PM : Getting values method started.
+10/22/2018 10:52:15 PM : Getting values method successfully finished.
+10/22/2018 10:52:15 PM : Getting values method started.
+10/22/2018 10:52:15 PM : Getting values method successfully finished.
+10/22/2018 10:52:15 PM : Getting values method started.
+10/22/2018 10:52:15 PM : Getting values method successfully finished.
+10/22/2018 10:52:17 PM : Getting extent values method started.
+10/22/2018 10:52:17 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:20 PM : Getting values method started.
+10/22/2018 10:52:20 PM : Getting values method successfully finished.
+10/22/2018 10:52:20 PM : Getting values method started.
+10/22/2018 10:52:20 PM : Getting values method successfully finished.
+10/22/2018 10:52:20 PM : Getting values method started.
+10/22/2018 10:52:20 PM : Getting values method successfully finished.
+10/22/2018 10:52:20 PM : Getting values method started.
+10/22/2018 10:52:20 PM : Getting values method successfully finished.
+10/22/2018 10:52:20 PM : Getting values method started.
+10/22/2018 10:52:20 PM : Getting values method successfully finished.
+10/22/2018 10:52:20 PM : Getting values method started.
+10/22/2018 10:52:20 PM : Getting values method successfully finished.
+10/22/2018 10:52:27 PM : Getting extent values method started.
+10/22/2018 10:52:27 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:29 PM : Getting values method started.
+10/22/2018 10:52:29 PM : Getting values method successfully finished.
+10/22/2018 10:52:29 PM : Getting values method started.
+10/22/2018 10:52:29 PM : Getting values method successfully finished.
+10/22/2018 10:52:29 PM : Getting values method started.
+10/22/2018 10:52:29 PM : Getting values method successfully finished.
+10/22/2018 10:52:31 PM : Getting extent values method started.
+10/22/2018 10:52:31 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:31 PM : Getting values method started.
+10/22/2018 10:52:31 PM : Getting values method successfully finished.
+10/22/2018 10:52:31 PM : Getting values method started.
+10/22/2018 10:52:31 PM : Getting values method successfully finished.
+10/22/2018 10:52:31 PM : Getting values method started.
+10/22/2018 10:52:31 PM : Getting values method successfully finished.
+10/22/2018 10:52:33 PM : Getting extent values method started.
+10/22/2018 10:52:33 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:37 PM : Getting values method started.
+10/22/2018 10:52:37 PM : Getting values method successfully finished.
+10/22/2018 10:52:37 PM : Getting values method started.
+10/22/2018 10:52:37 PM : Getting values method successfully finished.
+10/22/2018 10:52:37 PM : Getting values method started.
+10/22/2018 10:52:37 PM : Getting values method successfully finished.
+10/22/2018 10:52:43 PM : Getting extent values method started.
+10/22/2018 10:52:43 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:44 PM : Getting extent values method started.
+10/22/2018 10:52:44 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:44 PM : Getting values method started.
+10/22/2018 10:52:44 PM : Getting values method successfully finished.
+10/22/2018 10:52:44 PM : Getting values method started.
+10/22/2018 10:52:44 PM : Getting values method successfully finished.
+10/22/2018 10:52:44 PM : Getting values method started.
+10/22/2018 10:52:44 PM : Getting values method successfully finished.
+10/22/2018 10:52:45 PM : Getting extent values method started.
+10/22/2018 10:52:46 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:49 PM : Getting values method started.
+10/22/2018 10:52:49 PM : Getting values method successfully finished.
+10/22/2018 10:52:49 PM : Getting values method started.
+10/22/2018 10:52:49 PM : Getting values method successfully finished.
+10/22/2018 10:52:49 PM : Getting values method started.
+10/22/2018 10:52:49 PM : Getting values method successfully finished.
+10/22/2018 10:52:49 PM : Getting values method started.
+10/22/2018 10:52:49 PM : Getting values method successfully finished.
+10/22/2018 10:52:49 PM : Getting values method started.
+10/22/2018 10:52:49 PM : Getting values method successfully finished.
+10/22/2018 10:52:49 PM : Getting values method started.
+10/22/2018 10:52:49 PM : Getting values method successfully finished.
+10/22/2018 10:52:54 PM : Getting extent values method started.
+10/22/2018 10:52:54 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:54 PM : Getting values method started.
+10/22/2018 10:52:54 PM : Getting values method successfully finished.
+10/22/2018 10:52:54 PM : Getting values method started.
+10/22/2018 10:52:54 PM : Getting values method successfully finished.
+10/22/2018 10:52:54 PM : Getting values method started.
+10/22/2018 10:52:54 PM : Getting values method successfully finished.
+10/22/2018 10:52:56 PM : Getting extent values method started.
+10/22/2018 10:52:56 PM : Getting extent values method successfully finished.
+10/22/2018 10:52:59 PM : Getting values method started.
+10/22/2018 10:52:59 PM : Getting values method successfully finished.
+10/22/2018 10:52:59 PM : Getting values method started.
+10/22/2018 10:52:59 PM : Getting values method successfully finished.
+10/22/2018 10:52:59 PM : Getting values method started.
+10/22/2018 10:52:59 PM : Getting values method successfully finished.
+10/22/2018 11:23:51 PM : Getting extent values method started.
+10/22/2018 11:23:59 PM : Getting extent values method successfully finished.
+10/22/2018 11:24:16 PM : Getting values method started.
+10/22/2018 11:24:16 PM : Getting values method successfully finished.
+10/22/2018 11:24:20 PM : Getting values method started.
+10/22/2018 11:24:20 PM : Getting values method successfully finished.
+10/22/2018 11:24:26 PM : Getting values method started.
+10/22/2018 11:24:26 PM : Getting values method successfully finished.
+10/22/2018 11:24:31 PM : Getting values method started.
+10/22/2018 11:24:31 PM : Getting values method successfully finished.
+10/22/2018 11:24:31 PM : Getting related values method started.
+10/22/2018 11:24:31 PM : Getting related values method successfully finished.
+10/22/2018 11:24:31 PM : Getting values method started.
+10/22/2018 11:24:31 PM : Getting values method successfully finished.
+10/22/2018 11:24:49 PM : Getting extent values method started.
+10/22/2018 11:24:49 PM : Getting extent values method successfully finished.
+10/22/2018 11:24:52 PM : Getting values method started.
+10/22/2018 11:24:52 PM : Getting values method successfully finished.
+10/22/2018 11:24:55 PM : Getting values method started.
+10/22/2018 11:24:55 PM : Getting values method successfully finished.
+10/22/2018 11:24:59 PM : Getting values method started.
+10/22/2018 11:24:59 PM : Getting values method successfully finished.
+10/22/2018 11:24:59 PM : Getting related values method started.
+10/22/2018 11:24:59 PM : Getting related values method successfully finished.
+10/22/2018 11:24:59 PM : Getting values method started.
+10/22/2018 11:24:59 PM : Getting values method successfully finished.
+10/22/2018 11:25:13 PM : Getting extent values method started.
+10/22/2018 11:25:13 PM : Getting extent values method successfully finished.
+10/22/2018 11:25:16 PM : Getting values method started.
+10/22/2018 11:25:16 PM : Getting values method successfully finished.
+10/22/2018 11:25:20 PM : Getting values method started.
+10/22/2018 11:25:20 PM : Getting values method successfully finished.
+10/22/2018 11:25:20 PM : Failed to get model type code for DMS type: 0. Invalid DMS type. ID = 0x0000000000000000
+10/22/2018 11:25:25 PM : Getting extent values method started.
+10/22/2018 11:25:25 PM : Getting extent values method successfully finished.
+10/22/2018 11:25:28 PM : Getting values method started.
+10/22/2018 11:25:28 PM : Getting values method successfully finished.
+10/22/2018 11:25:30 PM : Getting values method started.
+10/22/2018 11:25:30 PM : Getting values method successfully finished.
+10/22/2018 11:25:34 PM : Getting values method started.
+10/22/2018 11:25:34 PM : Getting values method successfully finished.
+10/22/2018 11:25:34 PM : Getting related values method started.
+10/22/2018 11:25:35 PM : Getting related values method successfully finished.
+10/22/2018 11:25:35 PM : Getting values method started.
+10/22/2018 11:25:35 PM : Getting values method successfully finished.
+10/22/2018 11:25:52 PM : Getting extent values method started.
+10/22/2018 11:25:53 PM : Getting extent values method successfully finished.
+10/22/2018 11:25:55 PM : Getting values method started.
+10/22/2018 11:25:55 PM : Getting values method successfully finished.
+10/22/2018 11:25:57 PM : Getting values method started.
+10/22/2018 11:25:57 PM : Getting values method successfully finished.
+10/22/2018 11:26:04 PM : Getting values method started.
+10/22/2018 11:26:04 PM : Getting values method successfully finished.
+10/22/2018 11:26:08 PM : Getting values method started.
+10/22/2018 11:26:08 PM : Getting values method successfully finished.
+10/22/2018 11:26:08 PM : Getting related values method started.
+10/22/2018 11:26:08 PM : Getting related values method successfully finished.
+10/22/2018 11:26:08 PM : Getting values method started.
+10/22/2018 11:26:08 PM : Getting values method successfully finished.
+10/22/2018 11:26:08 PM : Getting values method started.
+10/22/2018 11:26:08 PM : Getting values method successfully finished.
+10/22/2018 11:26:14 PM : Getting values method started.
+10/22/2018 11:26:14 PM : Getting values method successfully finished.
+10/22/2018 11:26:15 PM : Getting related values method started.
+10/22/2018 11:26:15 PM : Getting related values method successfully finished.
+10/22/2018 11:26:15 PM : Getting values method started.
+10/22/2018 11:26:15 PM : Getting values method successfully finished.
+10/22/2018 11:26:15 PM : Getting values method started.
+10/22/2018 11:26:15 PM : Getting values method successfully finished.
+10/22/2018 11:26:19 PM : Getting extent values method started.
+10/22/2018 11:26:19 PM : Getting extent values method successfully finished.
+10/22/2018 11:26:21 PM : Getting values method started.
+10/22/2018 11:26:21 PM : Getting values method successfully finished.
+10/22/2018 11:26:24 PM : Getting values method started.
+10/22/2018 11:26:24 PM : Getting values method successfully finished.
+10/22/2018 11:26:24 PM : Failed to get model type code for DMS type: 0. Invalid DMS type. ID = 0x0000000000000000
+10/23/2018 10:05:38 AM : Getting extent values method started.
+10/23/2018 10:05:43 AM : Getting extent values method successfully finished.
+10/23/2018 10:05:48 AM : Getting values method started.
+10/23/2018 10:05:48 AM : Getting values method successfully finished.
+10/23/2018 10:07:17 AM : Getting extent values method started.
+10/23/2018 10:07:17 AM : Getting extent values method successfully finished.
+10/23/2018 10:07:21 AM : Getting values method started.
+10/23/2018 10:07:21 AM : Getting values method successfully finished.
+10/23/2018 10:07:38 AM : Getting extent values method started.
+10/23/2018 10:07:38 AM : Getting extent values method successfully finished.
+10/23/2018 10:07:42 AM : Getting values method started.
+10/23/2018 10:07:42 AM : Getting values method successfully finished.
+10/23/2018 10:07:45 AM : Getting values method started.
+10/23/2018 10:07:45 AM : Getting values method successfully finished.
+10/23/2018 10:07:52 AM : Getting values method started.
+10/23/2018 10:07:52 AM : Getting values method successfully finished.
+10/23/2018 10:07:52 AM : Getting related values method started.
+10/23/2018 10:07:52 AM : Getting related values method successfully finished.
+10/23/2018 10:07:52 AM : Getting values method started.
+10/23/2018 10:07:52 AM : Getting values method successfully finished.
+10/23/2018 10:08:39 AM : Getting extent values method started.
+10/23/2018 10:08:39 AM : Getting extent values method successfully finished.
+10/23/2018 10:08:43 AM : Getting values method started.
+10/23/2018 10:08:43 AM : Getting values method successfully finished.
+10/23/2018 10:08:47 AM : Getting values method started.
+10/23/2018 10:08:47 AM : Getting values method successfully finished.
+10/23/2018 10:08:47 AM : Failed to get model type code for DMS type: 0. Invalid DMS type. ID = 0x0000000000000000
+10/23/2018 10:09:04 AM : Getting values method started.
+10/23/2018 10:09:04 AM : Getting values method successfully finished.
+10/23/2018 10:09:05 AM : Getting values method started.
+10/23/2018 10:09:05 AM : Getting values method successfully finished.
+10/23/2018 10:09:14 AM : Getting extent values method started.
+10/23/2018 10:09:15 AM : Getting extent values method successfully finished.
+10/23/2018 10:09:17 AM : Getting values method started.
+10/23/2018 10:09:17 AM : Getting values method successfully finished.
+10/23/2018 10:09:20 AM : Getting values method started.
+10/23/2018 10:09:20 AM : Getting values method successfully finished.
+10/23/2018 10:09:24 AM : Getting values method started.
+10/23/2018 10:09:24 AM : Getting values method successfully finished.
+10/23/2018 10:09:24 AM : Getting related values method started.
+10/23/2018 10:09:24 AM : Getting related values method successfully finished.
+10/23/2018 10:09:24 AM : Getting values method started.
+10/23/2018 10:09:24 AM : Getting values method successfully finished.
+10/23/2018 10:12:29 AM : Getting extent values method started.
+10/23/2018 10:12:29 AM : Getting extent values method successfully finished.
+10/23/2018 10:14:48 AM : Getting extent values method started.
+10/23/2018 10:14:48 AM : Getting extent values method successfully finished.
+10/23/2018 10:14:51 AM : Getting values method started.
+10/23/2018 10:14:51 AM : Getting values method successfully finished.
+10/23/2018 10:15:11 AM : Getting extent values method started.
+10/23/2018 10:15:11 AM : Getting extent values method successfully finished.
+10/23/2018 10:15:13 AM : Getting extent values method started.
+10/23/2018 10:15:13 AM : Getting extent values method successfully finished.
+10/23/2018 10:15:13 AM : Getting values method started.
+10/23/2018 10:15:13 AM : Getting values method successfully finished.
+10/23/2018 10:15:13 AM : Getting values method started.
+10/23/2018 10:15:13 AM : Getting values method successfully finished.
+10/23/2018 10:15:13 AM : Getting values method started.
+10/23/2018 10:15:13 AM : Getting values method successfully finished.
+10/23/2018 10:15:20 AM : Getting extent values method started.
+10/23/2018 10:15:20 AM : Getting extent values method successfully finished.
+10/23/2018 10:15:24 AM : Getting values method started.
+10/23/2018 10:15:24 AM : Getting values method successfully finished.
+10/23/2018 10:15:24 AM : Getting values method started.
+10/23/2018 10:15:24 AM : Getting values method successfully finished.
+10/23/2018 10:15:24 AM : Getting values method started.
+10/23/2018 10:15:24 AM : Getting values method successfully finished.
+10/23/2018 10:15:24 AM : Getting values method started.
+10/23/2018 10:15:24 AM : Getting values method successfully finished.
+10/23/2018 10:15:24 AM : Getting values method started.
+10/23/2018 10:15:24 AM : Getting values method successfully finished.
+10/23/2018 10:15:24 AM : Getting values method started.
+10/23/2018 10:15:24 AM : Getting values method successfully finished.
+10/23/2018 10:15:31 AM : Getting extent values method started.
+10/23/2018 10:15:31 AM : Getting extent values method successfully finished.
+10/23/2018 10:15:33 AM : Getting extent values method started.
+10/23/2018 10:15:33 AM : Getting extent values method successfully finished.
+10/23/2018 10:15:33 AM : Getting values method started.
+10/23/2018 10:15:33 AM : Getting values method successfully finished.
+10/23/2018 10:15:33 AM : Getting values method started.
+10/23/2018 10:15:33 AM : Getting values method successfully finished.
+10/23/2018 10:15:33 AM : Getting values method started.
+10/23/2018 10:15:33 AM : Getting values method successfully finished.
+10/23/2018 10:15:48 AM : Getting extent values method started.
+10/23/2018 10:15:48 AM : Getting extent values method successfully finished.
+10/23/2018 10:15:52 AM : Getting values method started.
+10/23/2018 10:15:52 AM : Getting values method successfully finished.
+10/23/2018 10:15:52 AM : Getting values method started.
+10/23/2018 10:15:52 AM : Getting values method successfully finished.
+10/23/2018 10:15:52 AM : Getting values method started.
+10/23/2018 10:15:52 AM : Getting values method successfully finished.
+10/23/2018 10:15:52 AM : Getting values method started.
+10/23/2018 10:15:52 AM : Getting values method successfully finished.
+10/23/2018 10:15:52 AM : Getting values method started.
+10/23/2018 10:15:52 AM : Getting values method successfully finished.
+10/23/2018 10:15:52 AM : Getting values method started.
+10/23/2018 10:15:52 AM : Getting values method successfully finished.
+10/23/2018 10:16:06 AM : Getting extent values method started.
+10/23/2018 10:16:06 AM : Getting extent values method successfully finished.
+10/23/2018 10:16:09 AM : Getting values method started.
+10/23/2018 10:16:09 AM : Getting values method successfully finished.
+10/23/2018 10:16:09 AM : Getting values method started.
+10/23/2018 10:16:09 AM : Getting values method successfully finished.
+10/23/2018 10:16:09 AM : Getting values method started.
+10/23/2018 10:16:09 AM : Getting values method successfully finished.
+10/23/2018 10:16:29 AM : Getting extent values method started.
+10/23/2018 10:16:29 AM : Getting extent values method successfully finished.
+10/23/2018 10:16:29 AM : Getting values method started.
+10/23/2018 10:16:30 AM : Getting values method successfully finished.
+10/23/2018 10:16:30 AM : Getting values method started.
+10/23/2018 10:16:30 AM : Getting values method successfully finished.
+10/23/2018 10:16:30 AM : Getting values method started.
+10/23/2018 10:16:30 AM : Getting values method successfully finished.
+10/23/2018 10:16:32 AM : Getting extent values method started.
+10/23/2018 10:16:32 AM : Getting extent values method successfully finished.
+10/23/2018 10:16:36 AM : Getting values method started.
+10/23/2018 10:16:36 AM : Getting values method successfully finished.
+10/23/2018 10:16:36 AM : Getting values method started.
+10/23/2018 10:16:36 AM : Getting values method successfully finished.
+10/23/2018 10:16:36 AM : Getting values method started.
+10/23/2018 10:16:36 AM : Getting values method successfully finished.
+10/23/2018 10:16:51 AM : Getting extent values method started.
+10/23/2018 10:16:51 AM : Getting extent values method successfully finished.
+10/23/2018 10:16:52 AM : Getting extent values method started.
+10/23/2018 10:16:52 AM : Getting extent values method successfully finished.
+10/23/2018 10:16:52 AM : Getting values method started.
+10/23/2018 10:16:52 AM : Getting values method successfully finished.
+10/23/2018 10:16:52 AM : Getting values method started.
+10/23/2018 10:16:52 AM : Getting values method successfully finished.
+10/23/2018 10:16:52 AM : Getting values method started.
+10/23/2018 10:16:52 AM : Getting values method successfully finished.
+10/23/2018 10:17:00 AM : Getting extent values method started.
+10/23/2018 10:17:00 AM : Getting extent values method successfully finished.
+10/23/2018 10:17:03 AM : Getting values method started.
+10/23/2018 10:17:03 AM : Getting values method successfully finished.
+10/23/2018 10:17:03 AM : Getting values method started.
+10/23/2018 10:17:03 AM : Getting values method successfully finished.
+10/23/2018 10:17:03 AM : Getting values method started.
+10/23/2018 10:17:03 AM : Getting values method successfully finished.
+10/23/2018 10:17:03 AM : Getting values method started.
+10/23/2018 10:17:03 AM : Getting values method successfully finished.
+10/23/2018 10:17:03 AM : Getting values method started.
+10/23/2018 10:17:04 AM : Getting values method successfully finished.
+10/23/2018 10:17:04 AM : Getting values method started.
+10/23/2018 10:17:04 AM : Getting values method successfully finished.
+10/23/2018 10:21:04 AM : Getting values method started.
+10/23/2018 10:21:04 AM : Getting values method successfully finished.
+10/23/2018 10:21:04 AM : Getting related values method started.
+10/23/2018 10:21:05 AM : Getting related values method successfully finished.
+10/23/2018 10:21:05 AM : Getting values method started.
+10/23/2018 10:21:05 AM : Getting values method successfully finished.
+10/23/2018 10:21:09 AM : Getting values method started.
+10/23/2018 10:21:09 AM : Getting values method successfully finished.
+10/23/2018 10:21:09 AM : Getting related values method started.
+10/23/2018 10:21:09 AM : Getting related values method successfully finished.
+10/23/2018 10:21:09 AM : Getting values method started.
+10/23/2018 10:21:09 AM : Getting values method successfully finished.
+10/23/2018 10:21:16 AM : Getting values method started.
+10/23/2018 10:21:16 AM : Getting values method successfully finished.
+10/23/2018 10:21:16 AM : Getting related values method started.
+10/23/2018 10:21:16 AM : Getting related values method successfully finished.
+10/23/2018 10:21:16 AM : Getting values method started.
+10/23/2018 10:21:16 AM : Getting values method successfully finished.

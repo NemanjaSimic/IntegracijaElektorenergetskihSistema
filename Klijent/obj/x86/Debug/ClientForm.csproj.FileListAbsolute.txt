@@ -1,0 +1,140 @@
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\Klijent.exe.config
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\Klijent.exe
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\Klijent.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\FTN.Common.dll
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\System.Net.Http.dll
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\FTN.Common.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\bin\x86\Debug\System.Net.Http.xml
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.Cache
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\e393-2015\Desktop\blok3\Projekat2018\ModelLabsProjekat2018\ModelLabsProjekat\ModelLabs\NetworkModelService\Test\Klijent\obj\x86\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.Cache
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe.config
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.pdb
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.dll
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.dll
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.pdb
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.xml
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\e3144-2015\Desktop\ModelLabsProjekat10\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe.config
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.pdb
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.dll
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.dll
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.pdb
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.xml
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.Cache
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\e347-2015\Desktop\ModelLabsProjekat15\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe.config
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.pdb
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.dll
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.dll
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.pdb
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.xml
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.Cache
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\e347-2015\Desktop\ModelLabsProjekat16\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.pdb
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe.config
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.pdb
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.dll
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.pdb
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csprojAssemblyReference.cache
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Form1.resources
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.cache
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CopyComplete
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.exe
+E:\ftn\Cetvrta godina\blok 3\Coa projekat\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.pdb
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe.config
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.pdb
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.dll
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.pdb
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csprojAssemblyReference.cache
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Form1.resources
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.cache
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CopyComplete
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.exe
+E:\ftn\Cetvrta godina\blok 3\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe.config
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.pdb
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.dll
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.dll
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.pdb
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\System.Net.Http.xml
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csprojResolveAssemblyReference.cache
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.Cache
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\e321-2015\Desktop\PROJ_klijent\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe.config
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.exe
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\Klijent.pdb
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.dll
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.Common.pdb
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\ClientForm.csproj.CopyComplete
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\MIJAT\Desktop\ModelLabsProjekat-1\ModelLabsProjekat\ModelLabs\Klijent\obj\x86\Debug\Klijent.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\bin\x86\Debug\Klijent.exe.config
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\bin\x86\Debug\Klijent.exe
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\bin\x86\Debug\Klijent.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\bin\x86\Debug\FTN.Common.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.dll
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\bin\x86\Debug\FTN.Common.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\bin\x86\Debug\FTN.ServiceContracts.ServiceContracts.NetworkModelQueryContract.pdb
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\ClientForm.csprojAssemblyReference.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\Klijent.Form1.resources
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\Klijent.Properties.Resources.resources
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\ClientForm.csproj.GenerateResource.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\ClientForm.csproj.CoreCompileInputs.cache
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\ClientForm.csproj.CopyComplete
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\Klijent.exe
+C:\Users\Simic\Desktop\Blok3\Projekat2018\ModelLabsProjekat\ModelLabs\IntegracijaElektorenergetskihSistema\Klijent\obj\x86\Debug\Klijent.pdb

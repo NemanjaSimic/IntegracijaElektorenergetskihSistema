@@ -124,7 +124,7 @@ namespace FTN.ESI.SIMES.CIM.CIMAdapter
 
 				switch (extractType)
 				{
-					case SupportedProfiles.PowerTransformer:
+					case SupportedProfiles.Projekat:
 						{
 							// transformation to DMS delta					
 							TransformAndLoadReport report = PowerTransformerImporter.Instance.CreateNMSDelta(concreteModel);
